@@ -1,0 +1,6 @@
+{
+  "versionCode": 8,
+  "versionName": "1.7",
+  "url": "https://raw.githubusercontent.com/bikyb/neduva-app-releases/main/neduva-v1.7.apk",
+  "notes": "Adds Check for update in Settings; recurring pledge saves now show an error toast if the schedule fails to save."
+}
