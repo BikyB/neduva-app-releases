@@ -2,5 +2,5 @@
   "versionCode": 9,
   "versionName": "1.8",
   "url": "https://raw.githubusercontent.com/bikyb/neduva-app-releases/main/neduva-v1.8.apk",
-  "notes": "Transactions now open into a detail view with more info (campaign, receipt number, notes, source, entered time, anonymous and tribute flags) and a Void button. Card charges are voided with the processor, with a refund offer if already settled; manual cash/check entries are marked voided."
+  "notes": "Transactions now open into a detail view with more info (campaign, receipt number, notes, source, entered time, anonymous and tribute flags) and a Void button: card charges are voided with the processor (refund offered if already settled), manual cash/check entries are marked voided. Campaign, location and fundraiser selections in Settings now save and apply to every new transaction, and whatever is picked on a saved transaction carries to the next one."
 }
