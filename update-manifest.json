@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.8.apk",
-  "notes": "New Feedback page: request add-ons or report bugs straight to Fo, answers appear in the app."
+  "versionCode": 20,
+  "versionName": "2.9",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.9.apk",
+  "notes": "Feedback page now says Send to admin instead of Fo"
 }
