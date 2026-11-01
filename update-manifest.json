@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.7.apk",
-  "notes": "Schedule detail now shows previous and upcoming charges. Also: back button goes back a screen."
+  "versionCode": 19,
+  "versionName": "2.8",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.8.apk",
+  "notes": "New Feedback page: request add-ons or report bugs straight to Fo, answers appear in the app."
 }
