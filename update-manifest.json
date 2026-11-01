@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.4.apk",
-  "notes": "Sign out and Check for update moved into Settings, out of the menu."
+  "versionCode": 16,
+  "versionName": "2.5",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.5.apk",
+  "notes": "Fix: Settings page now opens (v2.4 crashed it)."
 }
