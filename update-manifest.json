@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.1.apk",
-  "notes": "Menu replaces Sign out/Settings; no tab strip on New Transaction; date filter on transactions; update check in Menu; printer fixes"
+  "versionCode": 13,
+  "versionName": "2.2",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.2.apk",
+  "notes": "Menu options now respond to taps (menu renders above the transaction dialog)."
 }
