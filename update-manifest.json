@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.5.apk",
-  "notes": "Fix: Settings page now opens (v2.4 crashed it)."
+  "versionCode": 17,
+  "versionName": "2.6",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.6.apk",
+  "notes": "Back button goes back a screen instead of exiting; Settings opens (2.4 crash fixed)."
 }
