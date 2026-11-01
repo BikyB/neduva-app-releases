@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.9",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.9.apk",
-  "notes": "Feedback page now says Send to admin instead of Fo"
+  "versionCode": 21,
+  "versionName": "2.10",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.10.apk",
+  "notes": "Settings now shows your organization profile: name, contact, address, EIN and more"
 }
