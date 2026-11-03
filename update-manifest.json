@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "2.12",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.12.apk",
-  "notes": "All Nov 3 work: recurring pledge payments any time, pledge status on edit, CSV import resilience, sponsorship week ranges + custom fields + hazkarah reuse + yahrzeit tasks, pledge start dates, IVR tree fixes, mobile calendar + tasks, main page redesign with upcoming donations and tasks, new public landing page, panels cleanup with sponsorship + tasks tabs and retry on failed charges, donor panel info, offline flagged-entry retry, mobile wizard step tabs, search by IDs/name+amount/card combos and phone numbers"
+  "versionCode": 24,
+  "versionName": "2.13",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.13.apk",
+  "notes": "Fixes the mobile 3-step wizard: the Transaction / Pledge / Sponsorship selection is back on step 2. Carries everything in v2.12 (all Nov 3 work: recurring pledge payments any time, pledge status on edit, CSV import resilience, sponsorship week ranges + custom fields + hazkarah reuse + yahrzeit tasks, pledge start dates, IVR tree fixes, mobile calendar + tasks, main page redesign with upcoming donations and tasks, new public landing page, panels cleanup with sponsorship + tasks tabs and retry on failed charges, donor panel info, offline flagged-entry retry, mobile wizard step tabs, search by IDs/name+amount/card combos and phone numbers)"
 }
