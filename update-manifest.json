@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "2.14",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.14.apk",
-  "notes": "Navy and gold rebrand across the mobile app: buttons, tabs, chips, calendar, settings, and the offline bar are now in the new colors, with the coin loading animation on the app's cream background. Also fixes the transactions page crashing the app, and the pledges panel now loads its charge history. Carries everything in v2.13 (the mobile 3-step wizard with the Transaction / Pledge / Sponsorship tabs, plus all Nov 3 work)."
+  "versionCode": 26,
+  "versionName": "2.15",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.15.apk",
+  "notes": "Optional two-step verification at login: after you enter your password, a 6-digit code goes to your email and the app opens only with it. Turn it on or off per person under Settings > Two-Step Verification (the email method needs no setup; turning it off asks for a code emailed to the account). Also carries everything in v2.14."
 }
