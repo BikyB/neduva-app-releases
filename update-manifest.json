@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "2.15",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.15.apk",
-  "notes": "Optional two-step verification at login: after you enter your password, a 6-digit code goes to your email and the app opens only with it. Turn it on or off per person under Settings > Two-Step Verification (the email method needs no setup; turning it off asks for a code emailed to the account). Also carries everything in v2.14."
+ "versionCode": 26,
+ "versionName": "2.15",
+ "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.15.apk",
+ "notes": "Fix: charging a payment plan again after a declined card no longer creates a second copy of the pledge or payment plan. Everything from v2.14 is included."
 }
