@@ -1,6 +1,6 @@
 {
- "versionCode": 26,
- "versionName": "2.15",
- "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.15.apk",
- "notes": "Fix: charging a payment plan again after a declined card no longer creates a second copy of the pledge or payment plan. Everything from v2.14 is included."
+  "versionCode": 27,
+  "versionName": "2.16",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.16.apk",
+  "notes": "Calendar day dialog now shows full transaction details, calendar type toggles, highlighted search matches, mobile bug-reporter button, safer pledge delete, and smarter column sorting. Everything from v2.15 is included."
 }
