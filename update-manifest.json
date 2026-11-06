@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "2.17",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.17.apk",
-  "notes": "Filter Transactions, Pledges, and Schedules by any column, column filters moved into the filter dialog, mobile profile and org-membership fixes, and a technical support agent (enabled per organization by the super admin). Everything from v2.16 is included."
+  "versionCode": 29,
+  "versionName": "2.18",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.18.apk",
+  "notes": "Mobile: cash and check saves no longer fail when the connection drops (they save offline and sync), offline card charges (full card details are stored on the device and processed like a regular charge when back online, per request), stay signed in offline, and Continue with Google sign-in on the device app. Everything from v2.17 is included."
 }
