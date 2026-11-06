@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "2.18",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.18.apk",
-  "notes": "Mobile: cash and check saves no longer fail when the connection drops (they save offline and sync), offline card charges (full card details are stored on the device and processed like a regular charge when back online, per request), stay signed in offline, and Continue with Google sign-in on the device app. Everything from v2.17 is included."
+  "versionCode": 30,
+  "versionName": "2.19",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.19.apk",
+  "notes": "Mobile: the whole new transaction dialog now works offline — sponsorships (single and batch, with pledge, yahrzeit and dedication), recurring and split schedules, ACH charges, and new donors all save on the device and sync when back online; a connection that drops mid-charge is caught and queued. ACH bank details are stored on the device like card details, per request. Text message picks the right number from the donor's cached record offline. New offline page shows every saved record with its status (Pending, Retrying now, Syncing now, Needs review) whenever the device is offline. Everything from v2.18 is included."
 }
