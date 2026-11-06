@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "2.20",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.20.apk",
-  "notes": "Fixes: the profile card in mobile settings loads again (the query asked for columns that only exist on signup requests and failed on schema drift, with a fallback so future drift retries instead of breaking); the admin usage page renders normally even when older usage rows are missing the new fields, instead of a white screen. Also in: the dashboard support agent now reports the real cause when its model provider can't load. Everything from v2.19 is included."
+  "versionCode": 32,
+  "versionName": "2.21",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.21.apk",
+  "notes": "Fixes: the SMS assistant can save donors again after a YES reply (it wasn't sending the donor's Hebrew name, so the insert failed); pledges and schedules no longer refresh endlessly; import uploads work for users in multiple organizations (storage policies now cover each org); and the tasks dialog date pickers write to the right fields. Everything from v2.20 is included."
 }
