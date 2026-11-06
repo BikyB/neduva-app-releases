@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "2.19",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.19.apk",
-  "notes": "Mobile: the whole new transaction dialog now works offline — sponsorships (single and batch, with pledge, yahrzeit and dedication), recurring and split schedules, ACH charges, and new donors all save on the device and sync when back online; a connection that drops mid-charge is caught and queued. ACH bank details are stored on the device like card details, per request. Text message picks the right number from the donor's cached record offline. New offline page shows every saved record with its status (Pending, Retrying now, Syncing now, Needs review) whenever the device is offline. Everything from v2.18 is included."
+  "versionCode": 31,
+  "versionName": "2.20",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.20.apk",
+  "notes": "Fixes: the profile card in mobile settings loads again (the query asked for columns that only exist on signup requests and failed on schema drift, with a fallback so future drift retries instead of breaking); the admin usage page renders normally even when older usage rows are missing the new fields, instead of a white screen. Also in: the dashboard support agent now reports the real cause when its model provider can't load. Everything from v2.19 is included."
 }
