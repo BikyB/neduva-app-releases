@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "2.21",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.21.apk",
-  "notes": "Fixes: the SMS assistant can save donors again after a YES reply (it wasn't sending the donor's Hebrew name, so the insert failed); pledges and schedules no longer refresh endlessly; import uploads work for users in multiple organizations (storage policies now cover each org); and the tasks dialog date pickers write to the right fields. Everything from v2.20 is included."
+  "versionCode": 33,
+  "versionName": "2.22",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.22.apk",
+  "notes": "New: the SMS assistant can create donation links on request (new add_donation_link intent). Fixes: mobile offline saving works again (#206, #207) and the import mapping filter behaves correctly (#210). Everything from v2.21 is included."
 }
