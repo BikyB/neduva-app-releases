@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "2.23",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.23.apk",
-  "notes": "Updates from the latest main: text-message service redeployment changes, dashboard donor page and sponsorship types updates, crash reporter improvements, and refreshed Supabase types. Everything from v2.22 is included."
+  "versionCode": 35,
+  "versionName": "2.24",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.24.apk",
+  "notes": "Printer fix: tapping Test print or printing a receipt now reaches the device's internal printer over Bluetooth (InnerPrinter) automatically when the built-in path does not respond. Also includes everything from v2.23: text-message service redeployment changes, dashboard donor page and sponsorship types updates, crash reporter improvements, and refreshed Supabase types."
 }
