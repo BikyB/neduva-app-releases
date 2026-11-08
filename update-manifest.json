@@ -1,11 +1,10 @@
 {
-  "latest_version_code": 45,
-  "latest_version_name": "2.34",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.34.apk",
+  "latest_version_code": 46,
+  "latest_version_name": "2.35",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.35.apk",
   "notes": [
-    "Imports no longer get stuck: an import job that stalled (no progress for 3+ minutes) now resumes automatically the next time the dashboard is opened or another import starts (#280)",
-    "Import money fields now accept $1,234.56, 1.234,56 and ($85.00) style amounts (#277)",
-    "Import: address columns combine into one address line instead of overwriting each other; House Number/Street/Apt columns auto-map (#278)",
-    "Dashboard agent totals (sum/average) fixed: computed server-side instead of failing (#279)"
+    "Data cleanup now runs in the background like imports, so dashboards no longer hang while it works (#287)",
+    "Creating a sponsorship inline without a start date now defaults the date to today (#285)",
+    "Fixed audit log lookups on sponsorships with faster database indexes (#286)"
   ]
 }
