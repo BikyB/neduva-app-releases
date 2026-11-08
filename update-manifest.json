@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 43,
-  "latestVersionName": "2.32",
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.32.apk",
-  "notes": "IVR: fixed the PIN gate firing when pin_required is stored as false. Donor emails now show the organization's name as the visible sender instead of Neduva."
+  "latestVersionCode": 44,
+  "latestVersionName": "2.33",
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.33.apk",
+  "notes": "Reports page upgrade: cards expiring soon, recently ended schedules, and pledges reports, plus an Excel-style custom sheet with filter, sort and columns. Organization billing flow completed end to end."
 }
