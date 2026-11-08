@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 42,
-  "latestVersionName": "2.31",
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.31.apk",
-  "notes": "Tasks: optional per-task notifications by email, text or daily digest. IVR: fixed a crash at call start. Mass email now sends in bulk through SES with a Resend batch and per-message fallback."
+  "latestVersionCode": 43,
+  "latestVersionName": "2.32",
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.32.apk",
+  "notes": "IVR: fixed the PIN gate firing when pin_required is stored as false. Donor emails now show the organization's name as the visible sender instead of Neduva."
 }
