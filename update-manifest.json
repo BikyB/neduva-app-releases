@@ -1,6 +1,11 @@
 {
-  "latestVersionCode": 44,
-  "latestVersionName": "2.33",
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.33.apk",
-  "notes": "Reports page upgrade: cards expiring soon, recently ended schedules, and pledges reports, plus an Excel-style custom sheet with filter, sort and columns. Organization billing flow completed end to end."
+  "latest_version_code": 45,
+  "latest_version_name": "2.34",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.34.apk",
+  "notes": [
+    "Imports no longer get stuck: an import job that stalled (no progress for 3+ minutes) now resumes automatically the next time the dashboard is opened or another import starts (#280)",
+    "Import money fields now accept $1,234.56, 1.234,56 and ($85.00) style amounts (#277)",
+    "Import: address columns combine into one address line instead of overwriting each other; House Number/Street/Apt columns auto-map (#278)",
+    "Dashboard agent totals (sum/average) fixed: computed server-side instead of failing (#279)"
+  ]
 }
