@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 41,
-  "latestVersionName": "2.30",
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.30.apk",
-  "notes": "IVR improvements: clearer default phone voice, a dashboard-managed allowlist of numbers that can record bulletins, the record option always announced, and a fix for the error shown after every successful card charge."
+  "latestVersionCode": 42,
+  "latestVersionName": "2.31",
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.31.apk",
+  "notes": "Tasks: optional per-task notifications by email, text or daily digest. IVR: fixed a crash at call start. Mass email now sends in bulk through SES with a Resend batch and per-message fallback."
 }
