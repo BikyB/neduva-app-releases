@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 40,
-  "latestVersionName": "2.29",
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.29.apk",
-  "notes": "IVR upgrade: clearer male voice, optional skippable soft greeting, and bulletin recording from the phone. Donation texts now show the card ending earlier and IVR errors are logged for debugging."
+  "latestVersionCode": 41,
+  "latestVersionName": "2.30",
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.30.apk",
+  "notes": "IVR improvements: clearer default phone voice, a dashboard-managed allowlist of numbers that can record bulletins, the record option always announced, and a fix for the error shown after every successful card charge."
 }
