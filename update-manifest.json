@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "2.26",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.26.apk",
-  "notes": "Fixes: sponsorship board emails no longer garble Hebrew text and board cards now show a period label (PR #226); pledge texting deployment fix; 4 high-severity bug fixes (PR #225); donor search improvements; edge function updates for sponsorship board and pledge payments."
+  "versionCode": 38,
+  "versionName": "2.27",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.27.apk",
+  "notes": "Fixes: app and auth emails sent through Resend when a key is configured (#236/#237), clear email errors instead of a generic 502 (#232), date filters on timestamp columns fixed (#235, issue #229), import dialog scroll fixed (#231, issue #224), dashboard-agent 500 crash fixed (#230) with a Cloudflare AI fallback, and send-sponsorship-board made a self-contained deploy."
 }
