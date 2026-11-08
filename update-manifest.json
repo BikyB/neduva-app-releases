@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "2.25",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.25.apk",
-  "notes": "Fixes offline record sync: records saved on the device now sync correctly (the database rejected them with an ON CONFLICT error on the partial unique indexes, error 42P10). Everything from v2.24 is included."
+  "versionCode": 37,
+  "versionName": "2.26",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.26.apk",
+  "notes": "Fixes: sponsorship board emails no longer garble Hebrew text and board cards now show a period label (PR #226); pledge texting deployment fix; 4 high-severity bug fixes (PR #225); donor search improvements; edge function updates for sponsorship board and pledge payments."
 }
