@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 52,
-  "latest_version_name": "2.41",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.41.apk",
-  "notes": "Fixed: Cardknox re-import now reattaches orphaned saved cards (#299), import audit log fixed, admin data explorer status column fixed (#302)"
+  "latest_version_code": 53,
+  "latest_version_name": "2.42",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.42.apk",
+  "notes": "Fixed: IVR bulletin now plays all recordings newest first, # skips, 0 goes back (#303, #306). Server-side fix; app bundle unchanged from v2.41."
 }
