@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 54,
-  "latest_version_name": "2.43",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.43.apk",
-  "notes": "Fixed: report page tabs and totals now load correctly with large data, sponsorship fields consistent across dashboard, mobile and SMS (#304, #305); IVR bulletin skip/auto-advance while playing (#307)"
+  "latest_version_code": 55,
+  "latest_version_name": "2.44",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.44.apk",
+  "notes": "Fixed: Cardknox import re-links existing transactions off deleted donors (#310). Server-side fix; app bundle unchanged from v2.43."
 }
