@@ -1,8 +1,9 @@
 {
-  "latest_version_code": 50,
-  "latest_version_name": "2.39",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.39.apk",
+  "latest_version_code": 51,
+  "latest_version_name": "2.40",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.40.apk",
   "notes": [
-    "Signup is now approval-only: Google sign-in no longer creates accounts; new accounts must fill out neduva.app/signup and be approved by an admin (#284)"
+    "Fixed: merging 3 or more donors into one primary donor (#295)",
+    "Includes the v2.39 fixes: walk-ins only match an existing donor on a phone number match (#296), Cardknox import flags the Cardknox default card as the donor's default (#297), and signup is gated behind /signup approval so Google sign-in no longer creates accounts on its own (#284)"
   ]
 }
