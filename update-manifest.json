@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 49,
-  "latest_version_name": "2.38",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.38.apk",
+  "latest_version_code": 50,
+  "latest_version_name": "2.39",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.39.apk",
   "notes": [
-    "Donary walk-in donors now match an existing donor by name; with no match the walk-in files under one shared default donor per organization instead of creating a new donor every time (#294)"
+    "Signup is now approval-only: Google sign-in no longer creates accounts; new accounts must fill out neduva.app/signup and be approved by an admin (#284)"
   ]
 }
