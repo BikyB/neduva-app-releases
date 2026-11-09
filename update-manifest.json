@@ -1,9 +1,8 @@
 {
-  "latest_version_code": 48,
-  "latest_version_name": "2.37",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.37.apk",
+  "latest_version_code": 49,
+  "latest_version_name": "2.38",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.38.apk",
   "notes": [
-    "Fixed: re-importing Cardknox transactions after deleting an import no longer reports everything as already imported; soft-deleted rows no longer block the re-import (#292)",
-    "Donary walk-in donors are now named from the card holder name instead of staying unnamed (#290)"
+    "Donary walk-in donors now match an existing donor by name; with no match the walk-in files under one shared default donor per organization instead of creating a new donor every time (#294)"
   ]
 }
