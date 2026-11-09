@@ -1,10 +1,9 @@
 {
-  "latest_version_code": 46,
-  "latest_version_name": "2.35",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.35.apk",
+  "latest_version_code": 47,
+  "latest_version_name": "2.36",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.36.apk",
   "notes": [
-    "Data cleanup now runs in the background like imports, so dashboards no longer hang while it works (#287)",
-    "Creating a sponsorship inline without a start date now defaults the date to today (#285)",
-    "Fixed audit log lookups on sponsorships with faster database indexes (#286)"
+    "Fixed: Check for updates inside the app said no internet even when connected (#290)",
+    "Update feed now has a backup source so a GitHub outage cannot block updates"
   ]
 }
