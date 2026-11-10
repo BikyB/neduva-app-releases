@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 65,
-  "latest_version_name": "2.54",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.54.apk",
-  "sha256": "d9212bfad89d6a6f61e10caec39db81223d89c6adb9ceecd1f910b08df42af14",
-  "notes": "Fixes: custom fields now show on the transactions page (#337), and people who reported a bug can follow its progress in the app (#336)."
+  "latest_version_code": 66,
+  "latest_version_name": "2.55",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.55.apk",
+  "sha256": "c8a45f3e9a91e104040685ac4fb1c5307bc1f3c1d1f170d373ce0780068aa5e7",
+  "notes": "Fixes: super admins can now manage custom field definitions in any org (#322)."
 }
