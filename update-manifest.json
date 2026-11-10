@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 56,
-  "latest_version_name": "2.45",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.45.apk",
-  "sha256": "6f56b38bf2ee4adea810cf20eed6df57f54b993f33d213d17412f95b63baf741",
-  "notes": "Fixed: the app now verifies an update download against its release checksum before installing, so a damaged or incomplete download asks you to retry instead of failing the install with 'package appears to be invalid' (#312). Also includes the top-donors report order fix. Server-side: Cardknox import re-links transactions off deleted donors (#310)."
+  "latest_version_code": 58,
+  "latest_version_name": "2.47",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.47.apk",
+  "sha256": "c9c0325a4fe56d13bc860ff8c4ad94867cd51d286fc4c6455900355fc7f23d9c",
+  "notes": "Fixed: Cardknox import links transactions to donors and batches all writes (#317, #318). Plus dashboard updates: bulk-select mode, delete-forever for donors, reorganized reports page, and fixed live delete."
 }
