@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 64,
-  "latest_version_name": "2.53",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.53.apk",
-  "sha256": "e6bb6db2dd0d860959ba36650c08a96fd2c3cafb4a8f8d04232fc8a1fd48925c",
-  "notes": "Fixed: the transactions page rendering blank (regression from the charge dialog rework). New: recurring schedules can charge one bill X days after the bill date. Also this build packs everything correctly after the 2.38-2.51 install/blank problems."
+  "latest_version_code": 65,
+  "latest_version_name": "2.54",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.54.apk",
+  "sha256": "d9212bfad89d6a6f61e10caec39db81223d89c6adb9ceecd1f910b08df42af14",
+  "notes": "Fixes: custom fields now show on the transactions page (#337), and people who reported a bug can follow its progress in the app (#336)."
 }
