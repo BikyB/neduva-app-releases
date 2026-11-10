@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 60,
-  "latest_version_name": "2.49",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.49.apk",
-  "sha256": "ced99a31e0ae33b97257f2f210163e9d5e900dc65c1e78d9b0e5754137f8ad16",
-  "notes": "New: skip-a-charge checkbox in the create and edit dialogs rolls the charge over without changing the schedule total (#325). Schedule charge retry attempts are now set per organization in Settings (#324)."
+  "latest_version_code": 61,
+  "latest_version_name": "2.50",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.50.apk",
+  "sha256": "d347c261dfb5b296972915fbc33f765ba1206ceae0fd1e76a3076486647ed603",
+  "notes": "New in org Settings: billing page now shows your text and AI usage, prepaid text and email credit top-ups ($5 to $1,000), and an optional bring-your-own email or text sender with step-by-step setup and a send test."
 }
