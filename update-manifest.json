@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 58,
-  "latest_version_name": "2.47",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.47.apk",
-  "sha256": "c9c0325a4fe56d13bc860ff8c4ad94867cd51d286fc4c6455900355fc7f23d9c",
-  "notes": "Fixed: Cardknox import links transactions to donors and batches all writes (#317, #318). Plus dashboard updates: bulk-select mode, delete-forever for donors, reorganized reports page, and fixed live delete."
+  "latest_version_code": 59,
+  "latest_version_name": "2.48",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.48.apk",
+  "sha256": "e375458fe942ef162ca29f05307ac9caa4fd668288f262ef7ab727f71f2dbd76",
+  "notes": "Cardknox import now runs as a background job with a chunked worker, so big imports no longer time out; failed rows are retried singly with the reason reported (#317 follow-up, #320, #321)."
 }
