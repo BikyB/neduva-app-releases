@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 63,
-  "latest_version_name": "2.52",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.52.apk",
-  "sha256": "d3fe02d3e8ccad37ea49f27e7edff1e9ae31a6ae9a4d87fdb89c67fa69d111e5",
-  "notes": "Fixed: versions 2.38-2.51 could fail to install or come up blank on the device; this build installs and loads correctly, and everyone should take it. New: pledge bills can be sent in bulk by email or text, with select-all for donors with an open balance."
+  "latest_version_code": 64,
+  "latest_version_name": "2.53",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.53.apk",
+  "sha256": "e6bb6db2dd0d860959ba36650c08a96fd2c3cafb4a8f8d04232fc8a1fd48925c",
+  "notes": "Fixed: the transactions page rendering blank (regression from the charge dialog rework). New: recurring schedules can charge one bill X days after the bill date. Also this build packs everything correctly after the 2.38-2.51 install/blank problems."
 }
