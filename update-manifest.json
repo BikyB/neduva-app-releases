@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 67,
-  "latest_version_name": "2.56",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.56.apk",
-  "sha256": "453ff6d8b00d01e23fc472f9961dfe54b409bde71748b270eb513583277e4df5",
-  "notes": "Fixes: sponsorship partial payment no longer opens a full-price pledge with the payment applied (#319)."
+  "latest_version_code": 68,
+  "latest_version_name": "2.57",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.57.apk",
+  "sha256": "b19ed27748607501b1af241021d4f4569f7b914d9f329b34568db462a9c44c22",
+  "notes": "Fixes: charge-after-bill schedules now charge the remaining installment correctly when one or more bills were already paid, with a per-run override date control (#326)."
 }
