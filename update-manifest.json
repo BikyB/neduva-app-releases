@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 66,
-  "latest_version_name": "2.55",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.55.apk",
-  "sha256": "c8a45f3e9a91e104040685ac4fb1c5307bc1f3c1d1f170d373ce0780068aa5e7",
-  "notes": "Fixes: super admins can now manage custom field definitions in any org (#322)."
+  "latest_version_code": 67,
+  "latest_version_name": "2.56",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.56.apk",
+  "sha256": "453ff6d8b00d01e23fc472f9961dfe54b409bde71748b270eb513583277e4df5",
+  "notes": "Fixes: sponsorship partial payment no longer opens a full-price pledge with the payment applied (#319)."
 }
