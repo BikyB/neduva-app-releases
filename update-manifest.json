@@ -1,7 +1,8 @@
 {
-  "latest_version_code": 69,
-  "latest_version_name": "2.58",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.58.apk",
-  "sha256": "ea2a5d8657343c965fff97b2d0aa5b44237dfc74548a352006a6466f0d16abfc",
-  "notes": "Fixes and features: charge after bill moved into the pledge flow, right after the 'Also collect a payment now' toggle, and now works from every schedule mode: the first installment is collected with the transaction and the next payment is charged X days after its bill (#326)."
+  "latest_version_code": 70,
+  "latest_version_name": "2.59",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.59.apk",
+  "sha256": "e8f357a4af1344380f0cb157eab66c4c9e3d2cdf87ea6a83c1608979004ef77b",
+  "notes": "IVR tree builder page for org users, default off until the super admin turns it on",
+  "release_notes": "IVR Tree Builder page for org users (super-admin toggled, default off)"
 }
