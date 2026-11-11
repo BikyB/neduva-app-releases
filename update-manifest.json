@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 68,
-  "latest_version_name": "2.57",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.57.apk",
-  "sha256": "e99335c95675b06d0fd41c644e6189cd2ddb49f0cfcf7e13795d6f13a5c8dd61",
-  "notes": "Fixes and features: frozen page after dialogs self-heals (#323); charge after bill button in the new transaction dialog (#326); IVR page per org, super admin toggled, default off (#343); IVR voice changer option flow with token-gated converter API (#340)."
+  "latest_version_code": 69,
+  "latest_version_name": "2.58",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.58.apk",
+  "sha256": "ea2a5d8657343c965fff97b2d0aa5b44237dfc74548a352006a6466f0d16abfc",
+  "notes": "Fixes and features: charge after bill moved into the pledge flow, right after the 'Also collect a payment now' toggle, and now works from every schedule mode: the first installment is collected with the transaction and the next payment is charged X days after its bill (#326)."
 }
