@@ -2,6 +2,6 @@
   "latest_version_code": 68,
   "latest_version_name": "2.57",
   "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.57.apk",
-  "sha256": "b19ed27748607501b1af241021d4f4569f7b914d9f329b34568db462a9c44c22",
-  "notes": "Fixes: charge-after-bill schedules now charge the remaining installment correctly when one or more bills were already paid, with a per-run override date control (#326)."
+  "sha256": "e99335c95675b06d0fd41c644e6189cd2ddb49f0cfcf7e13795d6f13a5c8dd61",
+  "notes": "Fixes and features: frozen page after dialogs self-heals (#323); charge after bill button in the new transaction dialog (#326); IVR page per org, super admin toggled, default off (#343); IVR voice changer option flow with token-gated converter API (#340)."
 }
