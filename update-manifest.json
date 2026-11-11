@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 70,
-  "latest_version_name": "2.59",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.59.apk",
-  "sha256": "e8f357a4af1344380f0cb157eab66c4c9e3d2cdf87ea6a83c1608979004ef77b",
-  "notes": "IVR tree builder page for org users, default off until the super admin turns it on",
-  "release_notes": "IVR Tree Builder page for org users (super-admin toggled, default off)"
+  "latest_version_code": 71,
+  "latest_version_name": "2.60",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.60.apk",
+  "sha256": "7dd27a6fe142fc5f09623085df90f13fc404be424f75ba6dd208fb3895ba9e9b",
+  "notes": "Payment after bill now asks only the payment type: nothing charged today, every installment charged X days after its bill",
+  "release_notes": "Payment after bill asks payment type only (PR #352): nothing is charged today and every installment is charged X days after its bill"
 }
