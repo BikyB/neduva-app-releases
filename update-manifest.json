@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 79,
-  "latest_version_name": "2.68",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.68.apk",
-  "sha256": "12c03e57d15171d3f21bfb3941632da6743778bd49ca893c901a5ab7d8f3c1ba",
-  "notes": "Pledges: record date (start date) is now shown and editable",
-  "release_notes": "PR #399: show and edit record date (start_date) on pledges (#397)"
+  "latest_version_code": 80,
+  "latest_version_name": "2.69",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.69.apk",
+  "sha256": "1a037cc7880544e31ad52125215425d0f854846bac251f217b8e3a89c55fade0",
+  "notes": "Donor edit dialog: preset name suggestions from the donor list",
+  "release_notes": "PR #401: preset suggestions for donor name fields from the donor list (#390)"
 }
