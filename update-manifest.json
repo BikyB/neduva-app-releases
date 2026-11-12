@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 81,
-  "latest_version_name": "2.70",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.70.apk",
-  "sha256": "4069cdf28237b048f34c536233758c3f6ea83814109bb51182f30a3a179864aa",
-  "notes": "Receipt printing fixes: real failure messages and stronger built-in printer connection",
-  "release_notes": "PR #402 + native printer fix (#400): print failures now show the reason; built-in printer connect retried over multiple channels"
+  "latest_version_code": 82,
+  "latest_version_name": "2.71",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.71.apk",
+  "sha256": "c30ebcccab001fb50e7342bae5c3018987606315fae4fed369fb9391320713d3",
+  "notes": "Sponsorships now save offline even when Wi-Fi shows connected but the internet is down",
+  "release_notes": "PR #406 (#370): dead-connection probe queues sponsorships offline and syncs when back online"
 }
