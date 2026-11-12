@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 76,
-  "latest_version_name": "2.65",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.65.apk",
-  "sha256": "485fd864b0f051119c7b90a5336471a28a1687af96a36985d993e17f60089a1d",
-  "notes": "Admin data explorer now supports select-all and bulk delete",
-  "release_notes": "PR #377: admin data explorer select-all checkbox and bulk delete so org admins can remove many rows in one action"
+  "latest_version_code": 77,
+  "latest_version_name": "2.66",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.66.apk",
+  "sha256": "833e3d4d5462fb0e3f10fc10891afc6a67cf40fe8bf99df8f7186b4e99e03683",
+  "notes": "IVR tree builder now shows bulletin messages",
+  "release_notes": "PR #386: bulletin messages now appear in the IVR tree builder (#383)"
 }
