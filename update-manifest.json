@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 73,
-  "latest_version_name": "2.62",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.62.apk",
-  "sha256": "15f467822c4e46fdeeea83777aaf421cb0f9fac7590603b980d10dd5001f7f8c",
-  "notes": "Card charges no longer create a duplicate donor row when the charge carries only a name: the charge now attaches to the caller's selected donor or the pledge's own donor",
-  "release_notes": "PR #368: cardknox-charge now uses the caller's donor id (verified to the org) or the pledge's own donor before falling back to phone/email matching, so a pledge charge can never mint a duplicate donor. ChargeOrScheduleDialog sends donor_id."
+  "latest_version_code": 74,
+  "latest_version_name": "2.63",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.63.apk",
+  "sha256": "6bf265a951fa1049853c68c41bc035b98a17d3fb64b9707169f89bd0dc81e5f1",
+  "notes": "Recurring pledge panel now shows the total upcoming at the top next to paid and balance",
+  "release_notes": "PR #369: pledge panel header reads Paid X / Balance Y / Upcoming Z (N x per-accrual) for recurring pledges"
 }
