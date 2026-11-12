@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 75,
-  "latest_version_name": "2.64",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.64.apk",
-  "sha256": "ebaeb51b9eadf89368bc3dc3fa4cf9081b4ba46395ad88c088a1050aeee54a12",
-  "notes": "Offline sync fixed: bug reports no longer re-send and sponsorships and recurring schedules now clear correctly",
-  "release_notes": "PR #373: mobile offline sync fixes - bug reports no longer re-send after delivery, and sponsorships and recurring schedules that were tapped offline now clear correctly on sync"
+  "latest_version_code": 76,
+  "latest_version_name": "2.65",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.65.apk",
+  "sha256": "485fd864b0f051119c7b90a5336471a28a1687af96a36985d993e17f60089a1d",
+  "notes": "Admin data explorer now supports select-all and bulk delete",
+  "release_notes": "PR #377: admin data explorer select-all checkbox and bulk delete so org admins can remove many rows in one action"
 }
