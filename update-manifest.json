@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 74,
-  "latest_version_name": "2.63",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.63.apk",
-  "sha256": "6bf265a951fa1049853c68c41bc035b98a17d3fb64b9707169f89bd0dc81e5f1",
-  "notes": "Recurring pledge panel now shows the total upcoming at the top next to paid and balance",
-  "release_notes": "PR #369: pledge panel header reads Paid X / Balance Y / Upcoming Z (N x per-accrual) for recurring pledges"
+  "latest_version_code": 75,
+  "latest_version_name": "2.64",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.64.apk",
+  "sha256": "ebaeb51b9eadf89368bc3dc3fa4cf9081b4ba46395ad88c088a1050aeee54a12",
+  "notes": "Offline sync fixed: bug reports no longer re-send and sponsorships and recurring schedules now clear correctly",
+  "release_notes": "PR #373: mobile offline sync fixes - bug reports no longer re-send after delivery, and sponsorships and recurring schedules that were tapped offline now clear correctly on sync"
 }
