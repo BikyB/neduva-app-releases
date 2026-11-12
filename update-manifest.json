@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 80,
-  "latest_version_name": "2.69",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.69.apk",
-  "sha256": "1a037cc7880544e31ad52125215425d0f854846bac251f217b8e3a89c55fade0",
-  "notes": "Donor edit dialog: preset name suggestions from the donor list",
-  "release_notes": "PR #401: preset suggestions for donor name fields from the donor list (#390)"
+  "latest_version_code": 81,
+  "latest_version_name": "2.70",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.70.apk",
+  "sha256": "4069cdf28237b048f34c536233758c3f6ea83814109bb51182f30a3a179864aa",
+  "notes": "Receipt printing fixes: real failure messages and stronger built-in printer connection",
+  "release_notes": "PR #402 + native printer fix (#400): print failures now show the reason; built-in printer connect retried over multiple channels"
 }
