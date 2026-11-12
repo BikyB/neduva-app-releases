@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 82,
-  "latest_version_name": "2.71",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.71.apk",
-  "sha256": "c30ebcccab001fb50e7342bae5c3018987606315fae4fed369fb9391320713d3",
-  "notes": "Sponsorships now save offline even when Wi-Fi shows connected but the internet is down",
-  "release_notes": "PR #406 (#370): dead-connection probe queues sponsorships offline and syncs when back online"
+  "latest_version_code": 83,
+  "latest_version_name": "2.72",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.72.apk",
+  "sha256": "694b5e226b1c013688a9758b4616c2b4ef3db66eb84518a86e39b47f469d67e1",
+  "notes": "Date and time rendered one day off fixed site-wide; cleaner bug-popup capture and report progress moved to settings overview",
+  "release_notes": "PR #409: fix date and time rendered one day off across the site (#407); PR #411: clean bug-popup capture and move report progress to settings overview (#408)"
 }
