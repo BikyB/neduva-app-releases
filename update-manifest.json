@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 72,
-  "latest_version_name": "2.61",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.61.apk",
-  "sha256": "55ed501f83fa63c0f4e73cb836402730249e4457743f9cb03d027516c56fbd28",
-  "notes": "Payment after bill no longer marks a pledge paid when nothing was collected; transaction screen no longer errors for orgs without an active payment account",
-  "release_notes": "PR #362: payment after bill no longer marks the pledge paid when nothing was collected. PR #361: fixed the unhandled rejection on the transaction screen for orgs without an active payment account"
+  "latest_version_code": 73,
+  "latest_version_name": "2.62",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.62.apk",
+  "sha256": "15f467822c4e46fdeeea83777aaf421cb0f9fac7590603b980d10dd5001f7f8c",
+  "notes": "Card charges no longer create a duplicate donor row when the charge carries only a name: the charge now attaches to the caller's selected donor or the pledge's own donor",
+  "release_notes": "PR #368: cardknox-charge now uses the caller's donor id (verified to the org) or the pledge's own donor before falling back to phone/email matching, so a pledge charge can never mint a duplicate donor. ChargeOrScheduleDialog sends donor_id."
 }
