@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 71,
-  "latest_version_name": "2.60",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.60.apk",
-  "sha256": "7dd27a6fe142fc5f09623085df90f13fc404be424f75ba6dd208fb3895ba9e9b",
-  "notes": "Payment after bill now asks only the payment type: nothing charged today, every installment charged X days after its bill",
-  "release_notes": "Payment after bill asks payment type only (PR #352): nothing is charged today and every installment is charged X days after its bill"
+  "latest_version_code": 72,
+  "latest_version_name": "2.61",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.61.apk",
+  "sha256": "55ed501f83fa63c0f4e73cb836402730249e4457743f9cb03d027516c56fbd28",
+  "notes": "Payment after bill no longer marks a pledge paid when nothing was collected; transaction screen no longer errors for orgs without an active payment account",
+  "release_notes": "PR #362: payment after bill no longer marks the pledge paid when nothing was collected. PR #361: fixed the unhandled rejection on the transaction screen for orgs without an active payment account"
 }
