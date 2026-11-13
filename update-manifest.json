@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 88,
-  "latest_version_name": "2.77",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.77.apk",
-  "sha256": "a7e31dd40fe0a6c70f89b27a66514ab74e856353039d46aef3b2140961375f5a",
-  "notes": "Donor statements include sponsorships and always render pledges; saved card offered even when its label is missing; transient card-charge failures retry with diagnostics",
-  "release_notes": "PR #439: donor statements include sponsorships and always render pledges (#435); PR #438: offer saved card even when its label is missing; retry transient cardknox-charge failures with diagnostics (#433, #434)"
+  "latest_version_code": 89,
+  "latest_version_name": "2.78",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.78.apk",
+  "sha256": "e555ce122ada59897932ebb1a984c46f3fe7107610f5db7f840d14c94ce6387c",
+  "notes": "Super admins get a Tasks page in the admin console",
+  "release_notes": "PR #447: give super admins a Tasks page in the admin console (#443); edge-only: SMS assistant task add/edit intents (PR #446)"
 }
