@@ -1,8 +1,7 @@
 {
-  "latest_version_code": 89,
-  "latest_version_name": "2.78",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.78.apk",
-  "sha256": "e555ce122ada59897932ebb1a984c46f3fe7107610f5db7f840d14c94ce6387c",
-  "notes": "Super admins get a Tasks page in the admin console",
-  "release_notes": "PR #447: give super admins a Tasks page in the admin console (#443); edge-only: SMS assistant task add/edit intents (PR #446)"
+  "latest_version_code": 90,
+  "latest_version_name": "2.79",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.79.apk",
+  "sha256": "36d34f61639208511a98f93b605bdd1d7ae5da6c8bc9964e944453ecd57b54ce",
+  "release_notes": "Dashboard: new Recent activity feed showing pledges, schedules, sponsorships, outreach, goals and changes (#419, #448)"
 }
