@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 87,
-  "latest_version_name": "2.76",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.76.apk",
-  "sha256": "a3b3cec2400c287dce96e11395b30d5ae489c836c7a836dac19c444b80562bfb",
-  "notes": "Bug reports panel grouped by org with fix notes; transaction-notification trigger skips import sources",
-  "release_notes": "PR #427: bug reports panel grouped by org with fix notes, silenced DialogContent warning (#418); PR #426: transaction-notification trigger skips import sources (#424)"
+  "latest_version_code": 88,
+  "latest_version_name": "2.77",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.77.apk",
+  "sha256": "a7e31dd40fe0a6c70f89b27a66514ab74e856353039d46aef3b2140961375f5a",
+  "notes": "Donor statements include sponsorships and always render pledges; saved card offered even when its label is missing; transient card-charge failures retry with diagnostics",
+  "release_notes": "PR #439: donor statements include sponsorships and always render pledges (#435); PR #438: offer saved card even when its label is missing; retry transient cardknox-charge failures with diagnostics (#433, #434)"
 }
