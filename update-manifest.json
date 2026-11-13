@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 85,
-  "latest_version_name": "2.74",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.74.apk",
-  "sha256": "ed2883f054aa92fffdeb34fa063b3fa72967a0023c337e5304c32faea4ea424e",
-  "notes": "Skip-a-charge checkbox inside Edit individual dates rows; fixed sender test flow in per-org email settings",
-  "release_notes": "PR #415: skip-a-charge checkbox inside Edit individual dates rows (#347/#392); sender test flow fixes in org sender settings"
+  "latest_version_code": 86,
+  "latest_version_name": "2.75",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.75.apk",
+  "sha256": "f8e5739621db777ed932731cb0d3b610c5fcfe8dff14283eb16e391d462c0906",
+  "notes": "Skipped charges now get replacement charges one period after the last; sender settings page no longer freezes on Gmail setup",
+  "release_notes": "PR #422: skipped charges get replacement charges one period after the last (#416); #421: sender settings page froze on Gmail setup"
 }
