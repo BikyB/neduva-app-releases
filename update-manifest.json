@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 86,
-  "latest_version_name": "2.75",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.75.apk",
-  "sha256": "f8e5739621db777ed932731cb0d3b610c5fcfe8dff14283eb16e391d462c0906",
-  "notes": "Skipped charges now get replacement charges one period after the last; sender settings page no longer freezes on Gmail setup",
-  "release_notes": "PR #422: skipped charges get replacement charges one period after the last (#416); #421: sender settings page froze on Gmail setup"
+  "latest_version_code": 87,
+  "latest_version_name": "2.76",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.76.apk",
+  "sha256": "a3b3cec2400c287dce96e11395b30d5ae489c836c7a836dac19c444b80562bfb",
+  "notes": "Bug reports panel grouped by org with fix notes; transaction-notification trigger skips import sources",
+  "release_notes": "PR #427: bug reports panel grouped by org with fix notes, silenced DialogContent warning (#418); PR #426: transaction-notification trigger skips import sources (#424)"
 }
