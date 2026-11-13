@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 84,
-  "latest_version_name": "2.73",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.73.apk",
-  "sha256": "0b798a8a0f0b3e966b7e97df64915f5abb889fe84fb6c3e36b76f8e86b220851",
-  "notes": "Google (Gmail) sender option in per-org email settings; pledges show upcoming status and donation statements include pledges",
-  "release_notes": "PR #385: Google (Gmail) sender option for per-org email settings; PR #413: pledges show upcoming status and donation statement includes pledges"
+  "latest_version_code": 85,
+  "latest_version_name": "2.74",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.74.apk",
+  "sha256": "ed2883f054aa92fffdeb34fa063b3fa72967a0023c337e5304c32faea4ea424e",
+  "notes": "Skip-a-charge checkbox inside Edit individual dates rows; fixed sender test flow in per-org email settings",
+  "release_notes": "PR #415: skip-a-charge checkbox inside Edit individual dates rows (#347/#392); sender test flow fixes in org sender settings"
 }
