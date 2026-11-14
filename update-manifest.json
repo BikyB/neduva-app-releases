@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 93,
-  "latest_version_name": "2.82",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.82.apk",
-  "sha256": "158a750e7320f15b2e1ac741ddd794d78dc5a68c4ceaaa758095094052b8a786",
-  "release_notes": "Custom report builder upgraded (#345, #452)"
+  "latest_version_code": 94,
+  "latest_version_name": "2.83",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.83.apk",
+  "sha256": "f3bc2754120c020e121e99aec9a93516ecd0d1d1c81db7d74fc60b65d87f4dc8",
+  "release_notes": "Super admins can add and edit tasks in the console (#443, #455)"
 }
