@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 91,
-  "latest_version_name": "2.80",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.80.apk",
-  "sha256": "2fde7173c326f041c03a039a3b034d1689fd0b500999bc3d46f4fe901f8227a2",
-  "release_notes": "Recurring schedules: monthly frequency by Yiddish (Hebrew) months, using the hebcal calendar (#417, #449)"
+  "latest_version_code": 92,
+  "latest_version_name": "2.81",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.81.apk",
+  "sha256": "958b808ff17cbcbfad6859989fdd7ca25159ad097c057fef6218f3ddf0f41588",
+  "release_notes": "Reports page reorganized for fundraisers (#420, #451)"
 }
