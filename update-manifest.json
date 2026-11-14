@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 92,
-  "latest_version_name": "2.81",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.81.apk",
-  "sha256": "958b808ff17cbcbfad6859989fdd7ca25159ad097c057fef6218f3ddf0f41588",
-  "release_notes": "Reports page reorganized for fundraisers (#420, #451)"
+  "latest_version_code": 93,
+  "latest_version_name": "2.82",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.82.apk",
+  "sha256": "158a750e7320f15b2e1ac741ddd794d78dc5a68c4ceaaa758095094052b8a786",
+  "release_notes": "Custom report builder upgraded (#345, #452)"
 }
