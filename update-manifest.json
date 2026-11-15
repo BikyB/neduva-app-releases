@@ -1,7 +1,8 @@
 {
-  "latest_version_code": 97,
-  "latest_version_name": "2.86",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.86.apk",
-  "sha256": "1179a61c696fa54cf0b4ff219f6b4e53fc301923883fdf6c4676b3620e3776bc",
-  "release_notes": "The Payment after bill option now lives inside the frequency picker box, right under the schedule fields, so it only shows when you create a recurring pledge (#348)"
+  "latest_version_code": 98,
+  "latest_version_name": "2.87",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.87.apk",
+  "apk_sha256": "fc7d448821ec2db7ae71cb0c74cbb45770dccc79e5a56aad4f5f9415a2f31ff8",
+  "release_notes": "New: one secure link per donor covers every open pledge (donors pick any subset, full balance or per-pledge amounts, with a warning when campaigns sit on different accounts). Staff get a Send combined bill button (text, email, copy link) on the donor pledges tab. Server-side: document emails now attach the real uploaded PDF and the public pledge link matches an existing donor instead of creating a duplicate.",
+  "released_at": "2026-11-15T18:45:00Z"
 }
