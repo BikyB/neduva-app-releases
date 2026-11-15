@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 99,
-  "latest_version_name": "2.88",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.88.apk",
-  "apk_sha256": "ee7e501bbc8b531b2795fb4049348e42736ea0339ded7a9c8f2c44975e4259b4",
-  "release_notes": "Org notifications: send fixed (crash on send) and new merge tags in messages and previews: {{yiddish_name}}, {{balance}}, {{total_donated}}, with money tags falling back to empty instead of a raw token.",
-  "released_at": "2026-11-15T19:50:00Z"
+  "latest_version_code": 100,
+  "latest_version_name": "2.89",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.89.apk",
+  "apk_sha256": "485334d2e7b3b0418e3789ecdc2411c0b736f42b6134d017789e9d217075869f",
+  "release_notes": "Fixes: donor search now matches the Donary donor id (#484, #485), including name + id combined searches; contact phone crash fixed; donor detail page updates. Server-side: super-admin RLS escape fix and Donary processor changes.",
+  "released_at": "2026-11-15T20:50:00Z"
 }
