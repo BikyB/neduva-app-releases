@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 94,
-  "latest_version_name": "2.83",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.83.apk",
-  "sha256": "f3bc2754120c020e121e99aec9a93516ecd0d1d1c81db7d74fc60b65d87f4dc8",
-  "release_notes": "Super admins can add and edit tasks in the console (#443, #455)"
+  "latest_version_code": 95,
+  "latest_version_name": "2.84",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.84.apk",
+  "sha256": "c562440ca3030fee670e802382968159067d30274e5b74d3c29651a3e885abb2",
+  "release_notes": "Sponsorship details (type, date, dedication) now appear on text receipts, pledge bills and the online receipt page (#470)"
 }
