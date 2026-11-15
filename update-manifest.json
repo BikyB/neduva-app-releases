@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 98,
-  "latest_version_name": "2.87",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.87.apk",
-  "apk_sha256": "fc7d448821ec2db7ae71cb0c74cbb45770dccc79e5a56aad4f5f9415a2f31ff8",
-  "release_notes": "New: one secure link per donor covers every open pledge (donors pick any subset, full balance or per-pledge amounts, with a warning when campaigns sit on different accounts). Staff get a Send combined bill button (text, email, copy link) on the donor pledges tab. Server-side: document emails now attach the real uploaded PDF and the public pledge link matches an existing donor instead of creating a duplicate.",
-  "released_at": "2026-11-15T18:45:00Z"
+  "latest_version_code": 99,
+  "latest_version_name": "2.88",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.88.apk",
+  "apk_sha256": "ee7e501bbc8b531b2795fb4049348e42736ea0339ded7a9c8f2c44975e4259b4",
+  "release_notes": "Org notifications: send fixed (crash on send) and new merge tags in messages and previews: {{yiddish_name}}, {{balance}}, {{total_donated}}, with money tags falling back to empty instead of a raw token.",
+  "released_at": "2026-11-15T19:50:00Z"
 }
