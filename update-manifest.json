@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 95,
-  "latest_version_name": "2.84",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.84.apk",
-  "sha256": "c562440ca3030fee670e802382968159067d30274e5b74d3c29651a3e885abb2",
-  "release_notes": "Sponsorship details (type, date, dedication) now appear on text receipts, pledge bills and the online receipt page (#470)"
+  "latest_version_code": 96,
+  "latest_version_name": "2.85",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.85.apk",
+  "sha256": "add0903ac17558c4263cda236774c4c16c8ac3ec73e5b841f705d48c0d32a4c1",
+  "release_notes": "Send donor statements by text: the statement dialog now texts a donor a link to view and print their statement, and Settings > Text Messages gains a customizable Statement text (#469)"
 }
