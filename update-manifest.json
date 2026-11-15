@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 101,
-  "latest_version_name": "2.90",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.90.apk",
-  "apk_sha256": "579e678dd5deeb9cf29a378a0758f2f11662ccd4991a69b69892d8b69bd0f24e",
-  "release_notes": "Fix: generated statement pages fit the doc viewer again (#501), the Amount column and logo are no longer clipped and the horizontal scrollbar is gone. Server-side (no app change needed): signup email links corrected (#500).",
-  "released_at": "2026-11-15T21:42:00Z"
+  "latest_version_code": 102,
+  "latest_version_name": "2.91",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.91.apk",
+  "apk_sha256": "98f48fdf0cf293b7ca0ccaf384977906d5885c40938fc67fee7a30cf918721cf",
+  "release_notes": "Fix: the page no longer freezes after closing a dialog by clicking outside it (#483), pointer events are restored automatically.",
+  "released_at": "2026-11-15T23:45:00Z"
 }
