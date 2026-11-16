@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.98",
-  "versionCode": 109,
+  "latestVersion": "2.99",
+  "versionCode": 110,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.98.apk",
-  "sha256": "6005e8f421509502bf37724b5420b02ea60322d867f93fa70f9a749ba63e697c",
-  "releasedAt": "2026-11-16T14:55:00Z",
-  "notes": "New in v2.98: editing a transaction and saving no longer changes its record date and time; the original date and time stay as entered."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.99.apk",
+  "sha256": "8d9b44d203f1d7332bc3a16a62f22092e2b744bc03ff2b2fb6c853355722973f",
+  "releasedAt": "2026-11-16T15:00:00Z",
+  "notes": "New in v2.99: the Payment after bill button now sits right after the Also collect a payment now toggle; pledges page UI fixes (frequency labels, every-N-weeks wording); edit-transaction keeps the original record date and time."
 }
