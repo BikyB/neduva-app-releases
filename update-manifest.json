@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.93",
-  "versionCode": 104,
+  "latestVersion": "2.94",
+  "versionCode": 105,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.93.apk",
-  "sha256": "498bd64dacaafc8248a1468ffaaefb3e4b33352c2cbc7e4ad95c9437d405e571",
-  "releasedAt": "2026-11-16T02:38:00Z",
-  "notes": "New in v2.93: free full MDM via Google's Android Management API added to the super-admin area (device registry + management page); public receipt endpoint hardened so it no longer leaks full org rows or raw errors."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.94.apk",
+  "sha256": "dd52a3a1713659cdb7fa7b4de2a5edc4432a6224727875e197699ba581973f93",
+  "releasedAt": "2026-11-16T03:52:00Z",
+  "notes": "New in v2.94: invoices page org dropdown no longer empties out (#512); billing runs page now names which orgs failed and why instead of a bare count (#513); bug reports no longer stuck at In progress after their GitHub issue closes (#514); org sender settings save unblocked in browsers (#511); Twilio voice hardened for tokenless subaccount lines and recording URLs (#454)."
 }
