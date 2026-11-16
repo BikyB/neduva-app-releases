@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.101",
-  "versionCode": 112,
+  "latestVersion": "2.102",
+  "versionCode": 113,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.101.apk",
-  "sha256": "d1fd87a2815e8afac0e8b8c999df1a91b2903724d6be1fd926aadcd9b0f85b50",
-  "releasedAt": "2026-11-16T18:50:00Z",
-  "notes": "New in v2.101: statement totals now include the pledge balance; receipt link fixes (short links, cross-org signing, Safari copy); emoji glyphs removed from UI copy."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.102.apk",
+  "sha256": "aaefaf4e81080d79a72aa58c78137d426caf4f2d193eca7fbf2ce0568b8012ed",
+  "releasedAt": "2026-11-16T19:50:00Z",
+  "notes": "New in v2.102: pledges and sponsorships are now optional on statements (including open-balance vs paid split); receipt fixes from review (pass-through, typed RPC, insert policy); AI-style phrasing removed from user-facing copy."
 }
