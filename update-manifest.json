@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.102",
-  "versionCode": 113,
+  "latestVersion": "2.103",
+  "versionCode": 114,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.102.apk",
-  "sha256": "aaefaf4e81080d79a72aa58c78137d426caf4f2d193eca7fbf2ce0568b8012ed",
-  "releasedAt": "2026-11-16T19:50:00Z",
-  "notes": "New in v2.102: pledges and sponsorships are now optional on statements (including open-balance vs paid split); receipt fixes from review (pass-through, typed RPC, insert policy); AI-style phrasing removed from user-facing copy."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.103.apk",
+  "sha256": "3b7bcb3cec1f82ab7def0085e071d6e03e3ef012787b1d8c0089c8022089ec84",
+  "releasedAt": "2026-11-16T21:05:00Z",
+  "notes": "New in v2.103: all Hi-Tech gateway processors are wired end to end (Authorize.Net, USAePay, Elavon Converge, First Data e4, eProcessing Network, RedFin, Magnoria) so organizations can pick any of them as live processing; card checkout, recurring charges, and pledge charging work through gateways; OrangePay setup guidance added to its supported connections; sign-ups now show which processors support donor-advised funds (DAF)."
 }
