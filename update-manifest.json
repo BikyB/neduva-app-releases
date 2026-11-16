@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.103",
-  "versionCode": 114,
+  "latestVersion": "2.104",
+  "versionCode": 115,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.103.apk",
-  "sha256": "3b7bcb3cec1f82ab7def0085e071d6e03e3ef012787b1d8c0089c8022089ec84",
-  "releasedAt": "2026-11-16T21:05:00Z",
-  "notes": "New in v2.103: all Hi-Tech gateway processors are wired end to end (Authorize.Net, USAePay, Elavon Converge, First Data e4, eProcessing Network, RedFin, Magnoria) so organizations can pick any of them as live processing; card checkout, recurring charges, and pledge charging work through gateways; OrangePay setup guidance added to its supported connections; sign-ups now show which processors support donor-advised funds (DAF)."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.104.apk",
+  "sha256": "8adccbcd4dedeef50740d731dd470041c09f2690a3374d3967feb90764ad6cfe",
+  "releasedAt": "2026-11-16T23:45:00Z",
+  "notes": "New in v2.104: maamodos subaccounts are now numbered by Hebrew year and month (5787-01 for Tishrei 5787, 5787-07 for Adar II in a leap year, 5788-01 for the next Tishrei) instead of a running count that climbed across years. The Hebrew month label stays on each month."
 }
