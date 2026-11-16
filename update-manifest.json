@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.97",
-  "versionCode": 108,
+  "latestVersion": "2.98",
+  "versionCode": 109,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.97.apk",
-  "sha256": "e429a3a826aa60eceb2d399c279a13fe1679785ffa257ffd5c38f2e8f5ad17ef",
-  "releasedAt": "2026-11-16T06:35:00Z",
-  "notes": "New in v2.97: rebrand sweep finished: the dashboard goal activity chip now uses the brand gold palette instead of the old purple, the last leftover old-brand color in the app."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.98.apk",
+  "sha256": "6005e8f421509502bf37724b5420b02ea60322d867f93fa70f9a749ba63e697c",
+  "releasedAt": "2026-11-16T14:55:00Z",
+  "notes": "New in v2.98: editing a transaction and saving no longer changes its record date and time; the original date and time stay as entered."
 }
