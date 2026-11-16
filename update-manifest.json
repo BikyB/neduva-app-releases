@@ -1,8 +1,9 @@
 {
-  "latest_version_code": 103,
-  "latest_version_name": "2.92",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.92.apk",
-  "apk_sha256": "5a9aa715aef87b220f0cea428b460a051356acf05537153edc4f5259c483fbab",
-  "release_notes": "Fix: the recent activity panel no longer hangs on donors with heavy history (#504); each request caps at 20s and a Retry button shows instead of a stuck spinner.",
-  "released_at": "2026-11-16T00:38:00Z"
+  "latestVersion": "2.93",
+  "versionCode": 104,
+  "minVersionCode": 1,
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.93.apk",
+  "sha256": "498bd64dacaafc8248a1468ffaaefb3e4b33352c2cbc7e4ad95c9437d405e571",
+  "releasedAt": "2026-11-16T02:38:00Z",
+  "notes": "New in v2.93: free full MDM via Google's Android Management API added to the super-admin area (device registry + management page); public receipt endpoint hardened so it no longer leaks full org rows or raw errors."
 }
