@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.100",
-  "versionCode": 111,
+  "latestVersion": "2.101",
+  "versionCode": 112,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.100.apk",
-  "sha256": "8ebb70a6b15118f74d5cce0bfb34b3042a45fe9d1f27886bd9811e7973f4d0d2",
-  "releasedAt": "2026-11-16T17:05:00Z",
-  "notes": "New in v2.100: pledge recurring dates now stay in sync when the pledge's schedule changes; pledges page UI fixes carried from v2.99."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.101.apk",
+  "sha256": "d1fd87a2815e8afac0e8b8c999df1a91b2903724d6be1fd926aadcd9b0f85b50",
+  "releasedAt": "2026-11-16T18:50:00Z",
+  "notes": "New in v2.101: statement totals now include the pledge balance; receipt link fixes (short links, cross-org signing, Safari copy); emoji glyphs removed from UI copy."
 }
