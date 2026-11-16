@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.94",
-  "versionCode": 105,
+  "latestVersion": "2.95",
+  "versionCode": 106,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.94.apk",
-  "sha256": "dd52a3a1713659cdb7fa7b4de2a5edc4432a6224727875e197699ba581973f93",
-  "releasedAt": "2026-11-16T03:52:00Z",
-  "notes": "New in v2.94: invoices page org dropdown no longer empties out (#512); billing runs page now names which orgs failed and why instead of a bare count (#513); bug reports no longer stuck at In progress after their GitHub issue closes (#514); org sender settings save unblocked in browsers (#511); Twilio voice hardened for tokenless subaccount lines and recording URLs (#454)."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.95.apk",
+  "sha256": "33a9fb50ef083b81a6b7e2c9fb567fcdb912f457b3ebfe3eac37c27387153323",
+  "releasedAt": "2026-11-16T04:47:00Z",
+  "notes": "New in v2.95: overdue badge on pledges no longer shows a day early (#520); donor list fetches can no longer hang forever (#521); bug reports now accepted even when the login has dropped, and resolved_at follows closed GitHub issues (#520, #524)."
 }
