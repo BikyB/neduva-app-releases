@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 102,
-  "latest_version_name": "2.91",
-  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.91.apk",
-  "apk_sha256": "98f48fdf0cf293b7ca0ccaf384977906d5885c40938fc67fee7a30cf918721cf",
-  "release_notes": "Fix: the page no longer freezes after closing a dialog by clicking outside it (#483), pointer events are restored automatically.",
-  "released_at": "2026-11-15T23:45:00Z"
+  "latest_version_code": 103,
+  "latest_version_name": "2.92",
+  "apk_url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.92.apk",
+  "apk_sha256": "5a9aa715aef87b220f0cea428b460a051356acf05537153edc4f5259c483fbab",
+  "release_notes": "Fix: the recent activity panel no longer hangs on donors with heavy history (#504); each request caps at 20s and a Retry button shows instead of a stuck spinner.",
+  "released_at": "2026-11-16T00:38:00Z"
 }
