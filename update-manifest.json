@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.96",
-  "versionCode": 107,
+  "latestVersion": "2.97",
+  "versionCode": 108,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.96.apk",
-  "sha256": "7de1da4319db76b10c7765976ae24db1fb3f4996fe3581ff46d7f0fdba58d48f",
-  "releasedAt": "2026-11-16T06:30:00Z",
-  "notes": "New in v2.96: pledge schedules that run every N weeks now project the right accrual dates instead of monthly ones (#522); pledge schedules without an end date no longer project hundreds of rows (#522); schedule start dates can be set in the past again, with missed periods caught up automatically (#523)."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.97.apk",
+  "sha256": "e429a3a826aa60eceb2d399c279a13fe1679785ffa257ffd5c38f2e8f5ad17ef",
+  "releasedAt": "2026-11-16T06:35:00Z",
+  "notes": "New in v2.97: rebrand sweep finished: the dashboard goal activity chip now uses the brand gold palette instead of the old purple, the last leftover old-brand color in the app."
 }
