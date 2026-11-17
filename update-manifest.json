@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.106",
-  "versionCode": 117,
+  "latestVersion": "2.107",
+  "versionCode": 118,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.106.apk",
-  "sha256": "1f6e802afdfe320e23e8a4aa96081ff99244db4683f5fceebf487feda8fbd31a",
-  "releasedAt": "2026-11-17T01:45:00Z",
-  "notes": "New in v2.106: the MDM enterprise is now bound from the signup redirect token, so enterprise setup attaches correctly when an admin signs up through the signup link (#549)."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.107.apk",
+  "sha256": "e7ac1d510e12df4c20fd89cb6e8add99103281b849aa1a29e5771e7b7a645c81",
+  "releasedAt": "2026-11-17T02:45:00Z",
+  "notes": "New in v2.107: the 'Continue with new donor' option now shows after the donor results list in the charge dialog (#555)."
 }
