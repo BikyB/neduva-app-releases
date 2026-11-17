@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.104",
-  "versionCode": 115,
+  "latestVersion": "2.105",
+  "versionCode": 116,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.104.apk",
-  "sha256": "99094d4e9c897a6af77ca593585fb4b625adea0fffe05b6057948947df9653cf",
-  "releasedAt": "2026-11-16T23:45:00Z",
-  "notes": "New in v2.104: maamodos subaccounts are numbered by Hebrew year and month (5787-01) instead of calendar year."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.105.apk",
+  "sha256": "56e2180bbd226d147dca54b207deae6ae292e75f04878ba00cf003114dc422e2",
+  "releasedAt": "2026-11-17T00:25:00Z",
+  "notes": "New in v2.105: the pledge panel no longer re-counts a first bill the donor already paid. The Upcoming total now shows the remaining bills only (for example 9 x $220 instead of 10 x $220 after the first bill was paid), and the schedule checklist keeps a dedicated row for the first bill."
 }
