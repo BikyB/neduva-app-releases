@@ -3,7 +3,7 @@
   "versionCode": 116,
   "minVersionCode": 1,
   "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.105.apk",
-  "sha256": "56e2180bbd226d147dca54b207deae6ae292e75f04878ba00cf003114dc422e2",
-  "releasedAt": "2026-11-17T00:25:00Z",
-  "notes": "New in v2.105: the pledge panel no longer re-counts a first bill the donor already paid. The Upcoming total now shows the remaining bills only (for example 9 x $220 instead of 10 x $220 after the first bill was paid), and the schedule checklist keeps a dedicated row for the first bill."
+  "sha256": "a8c7de42aa6f81e33201435e9955232a21689f1ad5f29f78bf305654a4dce684",
+  "releasedAt": "2026-11-17T00:45:00Z",
+  "notes": "New in v2.105: the pledge panel no longer re-counts an already-paid first bill in the Upcoming list (#546)."
 }
