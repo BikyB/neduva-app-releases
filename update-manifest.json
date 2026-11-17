@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.109",
-  "versionCode": 120,
+  "latestVersion": "2.110",
+  "versionCode": 121,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.109.apk",
-  "sha256": "22c8d24ff4ddb5146edfc857e337a3046ce1c0d321aeb11e5ad202e7fdd8f2ce",
-  "releasedAt": "2026-11-17T14:00:00Z",
-  "notes": "New in v2.109: collected ACH/LogicRaise payments are credited on deferred schedules and multi-pledge schedules are guarded (#560 review); the defer guard now follows the payment path and a render-crashing scope bug in the guard is fixed (#565 review)."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.110.apk",
+  "sha256": "8fdab9cb600be8471890b587fa35fc7762f92835c8b47ba02a348cbcbf42b4ff",
+  "releasedAt": "2026-11-17T17:05:00Z",
+  "notes": "New in v2.110: fixed #567, missing DialogTitle on the command dialog and the DonateModal thank-you state (better dialog a11y)."
 }
