@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.105",
-  "versionCode": 116,
+  "latestVersion": "2.106",
+  "versionCode": 117,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.105.apk",
-  "sha256": "a8c7de42aa6f81e33201435e9955232a21689f1ad5f29f78bf305654a4dce684",
-  "releasedAt": "2026-11-17T00:45:00Z",
-  "notes": "New in v2.105: the pledge panel no longer re-counts an already-paid first bill in the Upcoming list (#546)."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.106.apk",
+  "sha256": "1f6e802afdfe320e23e8a4aa96081ff99244db4683f5fceebf487feda8fbd31a",
+  "releasedAt": "2026-11-17T01:45:00Z",
+  "notes": "New in v2.106: the MDM enterprise is now bound from the signup redirect token, so enterprise setup attaches correctly when an admin signs up through the signup link (#549)."
 }
