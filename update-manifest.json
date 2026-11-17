@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.108",
-  "versionCode": 119,
+  "latestVersion": "2.109",
+  "versionCode": 120,
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.108.apk",
-  "sha256": "022f7026c3fd61be9bf9538c2d19aa340858ef31cfce9e635664b88ba8b9dc10",
-  "releasedAt": "2026-11-17T12:55:00Z",
-  "notes": "New in v2.108: deferred card schedules no longer mark pledges paid (#558)."
+  "apkUrl": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.109.apk",
+  "sha256": "02c50c113fa1abcc97725870795aadae2c8340a1ebbbbd71466256b407a98cbe",
+  "releasedAt": "2026-11-17T14:34:03Z",
+  "notes": "New in v2.109: collected ACH and LogicRaise payments now credit the pledge right away; deferred schedules on multiple pledges are stopped at entry instead of dropping allocations (PR #560 review fixes)."
 }
