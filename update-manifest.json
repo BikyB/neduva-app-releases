@@ -1,9 +1,9 @@
 {
-  "versionCode": 123,
-  "versionName": "2.112",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.112.apk",
-  "sha256": "d4e32362c260dd8b8ce9882e8b31127487f0b13ca84b3aeaeec36b4725941c09",
-  "releasedAt": "2026-11-18T03:50:00Z",
+  "versionCode": 124,
+  "versionName": "2.113",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.113.apk",
+  "sha256": "5f31a3ed8c9dd289e32cc08024f005c458aa610a133ec31c56e205d61fe71ed8",
+  "releasedAt": "2026-11-18T04:55:00Z",
   "minVersionCode": 1,
-  "notes": "Pledges page shows the schedule's remaining balance for active recurring pledges (#578); landing hero heading typo fixed (#582)."
+  "notes": "Pledge template dates, split-transaction campaigns keep applied amounts on campaign delete, bug-report dialog 408 handled (#579, #583, #587); visibility row checks hoisted to statement InitPlans (#580, #581)."
 }
