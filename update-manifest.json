@@ -1,9 +1,9 @@
 {
-  "versionCode": 128,
-  "versionName": "2.117",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.117.apk",
-  "sha256": "3b36e2764323c592da9e027ee5f77bb482126da0f50e02c5eda87b18599d20e4",
-  "releasedAt": "2026-11-18T16:10:00Z",
+  "versionCode": 129,
+  "versionName": "2.118",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.118.apk",
+  "sha256": "3ded9d06c0bede24f647fe62a3715fce2daaa89371f2fb2d32f4902423d8acb4",
+  "releasedAt": "2026-11-18T19:50:00Z",
   "minVersionCode": 1,
-  "notes": "Yiddish calendar picker for the statement period dates (#605)."
+  "notes": "Fix: EIN lookup 401 on the signup page (#610)."
 }
