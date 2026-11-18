@@ -1,9 +1,9 @@
 {
-  "versionCode": 122,
-  "versionName": "2.111",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.111.apk",
-  "sha256": "a54714ff8739b24e6ee8b39fbf0f209e3ea13d1267a617d81ebf868d12da593e",
-  "releasedAt": "2026-11-18T02:55:00Z",
+  "versionCode": 123,
+  "versionName": "2.112",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.112.apk",
+  "sha256": "d4e32362c260dd8b8ce9882e8b31127487f0b13ca84b3aeaeec36b4725941c09",
+  "releasedAt": "2026-11-18T03:50:00Z",
   "minVersionCode": 1,
-  "notes": "Hebrew-name display fallback for Unnamed donors; multiple document templates for receipts, statements and pledge invoices; per-user permissions editor (org roles, custom matrix, per-user feature gating); Respond button on bug reports: teller replies post to GitHub and reopen the issue."
+  "notes": "Pledges page shows the schedule's remaining balance for active recurring pledges (#578); landing hero heading typo fixed (#582)."
 }
