@@ -1,9 +1,9 @@
 {
-  "versionCode": 131,
-  "versionName": "2.120",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.120.apk",
-  "sha256": "6370a9fdcc13bede34a6bed77e0f096fb32b66e40d207b001308895ebc87c99f",
-  "releasedAt": "2026-11-18T21:40:00Z",
+  "versionCode": 132,
+  "versionName": "2.121",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.121.apk",
+  "sha256": "1c384435dd92b57c05ad9f10d88032c41bcdbda89e98fa68f018c296e345bc24",
+  "releasedAt": "2026-11-18T23:55:00Z",
   "minVersionCode": 1,
-  "notes": "Fix: removed the stray changelog note from the bug report popup (#612)."
+  "notes": "Fixes: donor search now matches phone numbers digit-loose (845-923-7931 style finds donors) in the donors page and column filters (#616); gateway-clients import fix for decryptSecret (#614)."
 }
