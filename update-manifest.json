@@ -1,9 +1,9 @@
 {
-  "versionCode": 129,
-  "versionName": "2.118",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.118.apk",
-  "sha256": "3ded9d06c0bede24f647fe62a3715fce2daaa89371f2fb2d32f4902423d8acb4",
-  "releasedAt": "2026-11-18T19:50:00Z",
+  "versionCode": 130,
+  "versionName": "2.119",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.119.apk",
+  "sha256": "03f97014be3ae59f8f6cb049dd330b08ba649dea5dbe20a72cc1fe1a4617befa",
+  "releasedAt": "2026-11-18T20:40:00Z",
   "minVersionCode": 1,
-  "notes": "Fix: EIN lookup 401 on the signup page (#610)."
+  "notes": "Fix: billing page (Usage & Credits) no longer white-screens when the org usage-stats response is partial or malformed (#608)."
 }
