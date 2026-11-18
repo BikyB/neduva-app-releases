@@ -1,9 +1,9 @@
 {
-  "versionCode": 125,
-  "versionName": "2.114",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.114.apk",
-  "sha256": "d2cff2baf39bb2c1c97b78ad7fdf2c23c32d50d6165a5858d569486f90b1aa52",
-  "releasedAt": "2026-11-18T12:40:00Z",
+  "versionCode": 126,
+  "versionName": "2.115",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.115.apk",
+  "sha256": "f9b3539541ff8d11c63edbf85c9f8e5d452a79d366469b30fd5eadbb8c5866ab",
+  "releasedAt": "2026-11-18T14:05:00Z",
   "minVersionCode": 1,
-  "notes": "Clearer AMAPI errors plus a retry on policy PUT (#589 review fix included); bug reports copy Fo's inbox for the hourly sweep (#590); landing hero comma fix (#591); revenue reports and dashboard KPI count only completed payments, dashboard payment failures no longer block other stats (#592); transactions search no longer times out on large orgs (#593); donor number token matching strict like the #593 search rewrite (#594)."
+  "notes": "Campaign delete keeps split rows and the 408 bug dialog no longer claims the report sent, blank template dates clear stale dues (#595); pending checks count as revenue per the deposit rule (#597); durable bug-report queue persists before GitHub and retries hourly (#596)."
 }
