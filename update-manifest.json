@@ -1,11 +1,14 @@
 {
-  "versionCode": 139,
-  "versionName": "2.128",
-  "releasedAt": "2026-11-19T15:10:00Z",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.128.apk",
-  "sha256": "ead5fe30700a62fcad6844c2441a06177d593028eb03eb37442e1f406ff55ea1",
+  "versionCode": 140,
+  "versionName": "2.129",
+  "releasedAt": "2026-11-19T17:10:00Z",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.129.apk",
+  "sha256": "1ccc34d3d4b590fea0581233a36ff1cc47f2d576eb524f94ddbbd47cf6610457",
   "notes": [
-    "New: data cleanup skips non-mailable addresses and caps monthly Google Maps usage (#663, #664).",
-    "Fix: email attachments decode base64 without Buffer, so attachment emails no longer fail on the edge runtime (#618)."
+    "New: Notifications tab on the dashboard overview (#669).",
+    "New: Donation Statement uses the Yiddish calendar instead of the native date inputs (#617).",
+    "New: Father and Shver shown in reports (#641).",
+    "New: security headers for web assets (HSTS, nosniff, referrer policy).",
+    "Fix: a failed artwork image no longer stops the email document send (#670)."
   ]
 }
