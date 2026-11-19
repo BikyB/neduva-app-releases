@@ -1,9 +1,9 @@
 {
-  "versionCode": 132,
-  "versionName": "2.121",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.121.apk",
-  "sha256": "1c384435dd92b57c05ad9f10d88032c41bcdbda89e98fa68f018c296e345bc24",
-  "releasedAt": "2026-11-18T23:55:00Z",
+  "versionCode": 133,
+  "versionName": "2.122",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.122.apk",
+  "sha256": "cc5e4e521d6e67fbe320685cea5d0c547cb56b22b19202216e958228126a086e",
+  "releasedAt": "2026-11-19T01:55:00Z",
   "minVersionCode": 1,
-  "notes": "Fixes: donor search now matches phone numbers digit-loose (845-923-7931 style finds donors) in the donors page and column filters (#616); gateway-clients import fix for decryptSecret (#614)."
+  "notes": "New: donor father and shver (father-in-law) association, linked donor or free text, on the donors page (#628). New: payment dialog auto-selects the saved location from the device's position (#602). New: upload a logo file on the org branding page (#550). Fix: recording a payment no longer skips the first scheduled date (#625)."
 }
