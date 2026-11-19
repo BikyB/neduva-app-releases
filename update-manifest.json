@@ -1,9 +1,9 @@
 {
-  "versionCode": 134,
-  "versionName": "2.123",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.123.apk",
-  "sha256": "ca8c5d9d83b1c6ffb97f86fedaaec94edcc823770e966523af86e4d744b1c59c",
-  "releasedAt": "2026-11-19T02:45:00Z",
+  "versionCode": 135,
+  "versionName": "2.124",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.124.apk",
+  "sha256": "05e1ec56145f3cd717a5565aeb2ad8770cc46c20bb9a81c4c02874627e36cffa",
+  "releasedAt": "2026-11-19T03:50:00Z",
   "minVersionCode": 1,
-  "notes": "New: father/shver now searchable, shown on mobile donors and donor cards, and answered by the dashboard agent (#634); donor father/shver included in the Excel download and import (#633). Fix: cached family names nulled for linked parents at the DB level (#628); Hebrew-name label renamed to \u05e0\u05d0\u05de\u05e2\u05df everywhere (#629); MDM policy saved with PATCH so a fresh enterprise can create it (#630); #625 review follow-ups (today-start shift, sparse shifted overrides); family search migration matches linked parents through the linked row (RLS-filtered)."
+  "notes": "Fix: the recurring_donations campaign embed is disambiguated so it no longer fails with PGRST201 (#640). Fixed: linked father and shver names now resolve for the Excel export, donor card, and mobile donors (#637)."
 }
