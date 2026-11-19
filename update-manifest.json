@@ -1,9 +1,9 @@
 {
-  "versionCode": 133,
-  "versionName": "2.122",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.122.apk",
-  "sha256": "cc5e4e521d6e67fbe320685cea5d0c547cb56b22b19202216e958228126a086e",
-  "releasedAt": "2026-11-19T01:55:00Z",
+  "versionCode": 134,
+  "versionName": "2.123",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.123.apk",
+  "sha256": "ca8c5d9d83b1c6ffb97f86fedaaec94edcc823770e966523af86e4d744b1c59c",
+  "releasedAt": "2026-11-19T02:45:00Z",
   "minVersionCode": 1,
-  "notes": "New: donor father and shver (father-in-law) association, linked donor or free text, on the donors page (#628). New: payment dialog auto-selects the saved location from the device's position (#602). New: upload a logo file on the org branding page (#550). Fix: recording a payment no longer skips the first scheduled date (#625)."
+  "notes": "New: father/shver now searchable, shown on mobile donors and donor cards, and answered by the dashboard agent (#634); donor father/shver included in the Excel download and import (#633). Fix: cached family names nulled for linked parents at the DB level (#628); Hebrew-name label renamed to \u05e0\u05d0\u05de\u05e2\u05df everywhere (#629); MDM policy saved with PATCH so a fresh enterprise can create it (#630); #625 review follow-ups (today-start shift, sparse shifted overrides); family search migration matches linked parents through the linked row (RLS-filtered)."
 }
