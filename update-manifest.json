@@ -1,10 +1,11 @@
 {
-  "versionCode": 138,
-  "versionName": "2.127",
-  "releasedAt": "2026-11-19T14:55:00Z",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.127.apk",
-  "sha256": "2ea07c77b8fbd8191ef535c4136c96686920cdfa6fda6f6d0452581120cd77d3",
+  "versionCode": 139,
+  "versionName": "2.128",
+  "releasedAt": "2026-11-19T15:10:00Z",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.128.apk",
+  "sha256": "ead5fe30700a62fcad6844c2441a06177d593028eb03eb37442e1f406ff55ea1",
   "notes": [
-    "Fix: donor search now matches the Donary donor ID and custom field values, so pasting an ID like 20010 finds the donor (#611)."
+    "New: data cleanup skips non-mailable addresses and caps monthly Google Maps usage (#663, #664).",
+    "Fix: email attachments decode base64 without Buffer, so attachment emails no longer fail on the edge runtime (#618)."
   ]
 }
