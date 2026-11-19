@@ -1,9 +1,9 @@
 {
-  "versionCode": 135,
-  "versionName": "2.124",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.124.apk",
-  "sha256": "05e1ec56145f3cd717a5565aeb2ad8770cc46c20bb9a81c4c02874627e36cffa",
-  "releasedAt": "2026-11-19T03:50:00Z",
+  "versionCode": 136,
+  "versionName": "2.125",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.125.apk",
+  "sha256": "234aaff41b869a1c64907ad31f1f958650de36bf4d1801118a560d75bba826c5",
+  "releasedAt": "2026-11-19T05:00:00Z",
   "minVersionCode": 1,
-  "notes": "Fix: the recurring_donations campaign embed is disambiguated so it no longer fails with PGRST201 (#640). Fixed: linked father and shver names now resolve for the Excel export, donor card, and mobile donors (#637)."
+  "notes": "New: donation pages support custom information sections (#643). Fix: gateway-charge card charges from the transaction dialog now go through (#651). Fix: the invalid top-level autoUpdatePolicy field is dropped from the default MDM policy (#638)."
 }
