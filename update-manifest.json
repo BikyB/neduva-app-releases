@@ -1,10 +1,11 @@
 {
-  "versionCode": 141,
-  "versionName": "2.130",
-  "releasedAt": "2026-11-19T19:10:00Z",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.130.apk",
-  "sha256": "20049f56007bd37211f7a5d9db8423cf9ea5050a46bf3b29e5c41bb7d11732d0",
+  "versionCode": 142,
+  "versionName": "2.131",
+  "releasedAt": "2026-11-19T20:40:00Z",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.131.apk",
+  "sha256": "33a39e40c8338e3303ba15ac5e1fe1c18455375c90d6a902b4e2775a0f1da38f",
   "notes": [
-    "Fix: the loading coin gif no longer shows a chip at the top-left corner (#672)."
+    "Fix: gateway charge errors now show the real processor name (#676).",
+    "Fix: detail panels no longer render a blank sheet (all five) (#675)."
   ]
 }
