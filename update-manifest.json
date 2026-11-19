@@ -1,9 +1,9 @@
 {
-  "versionCode": 136,
-  "versionName": "2.125",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.125.apk",
-  "sha256": "234aaff41b869a1c64907ad31f1f958650de36bf4d1801118a560d75bba826c5",
-  "releasedAt": "2026-11-19T05:00:00Z",
+  "versionCode": 137,
+  "versionName": "2.126",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.126.apk",
+  "sha256": "0bcd0d4a2f969abf698c5b8cffc2e5ec1e12c74fac6cb6715d6ccb0cf1bf3651",
+  "releasedAt": "2026-11-19T12:55:00Z",
   "minVersionCode": 1,
-  "notes": "New: donation pages support custom information sections (#643). Fix: gateway-charge card charges from the transaction dialog now go through (#651). Fix: the invalid top-level autoUpdatePolicy field is dropped from the default MDM policy (#638)."
+  "notes": "Fix: pledge rows no longer crash the pledges page (#648); stuck running imports show complete once every row is processed (#647); recorded-now schedules carry the right number of installments (#650) and splits never bump (#656 review); yearly sponsorship types no longer carry week-range coverage and sponsorship insert is guarded (#645, #646); billing runs record and show why an org was not billed (#649); the tasks page skips org-scoped queries until an org is picked (#649); schedule details never render a blank panel (#626)."
 }
