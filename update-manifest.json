@@ -1,11 +1,11 @@
 {
-  "versionCode": 146,
-  "versionName": "2.135",
-  "releasedAt": "2026-11-20T03:50:00Z",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.135.apk",
-  "sha256": "acc56d17d6d5a3b02622f19d189aa63bde73068bca5a5b8e52a44bf1076e07ec",
+  "versionCode": 147,
+  "versionName": "2.136",
+  "releasedAt": "2026-11-20T15:50:00Z",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.136.apk",
+  "sha256": "200e8d606faa37f193db5c95a910264121f35ce3ad33e96e9383ac63326fc52e",
   "notes": [
-    "Fixed: nightly billing charge calls failing with 401 since Nov 10 (apikey/bearer mismatch in run-cycle charge call), plus a loading state on Billing Runs (#685).",
-    "New: imports run one at a time platform-wide with batch pacing (#680)."
+    "Fixed: large imports parse the spreadsheet once and cache its rows beside the upload (#687).",
+    "Fixed: import workers read the row cache via storage REST and hand off at 45s, so long imports no longer stall (#688)."
   ]
 }
