@@ -1,10 +1,10 @@
 {
-  "versionCode": 143,
-  "versionName": "2.132",
-  "releasedAt": "2026-11-19T21:45:00Z",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.132.apk",
-  "sha256": "6fb203866c1fb9ce4e3cba517dc63b04a254dff3403039c69fa7a3a2efd1f729",
+  "versionCode": 144,
+  "versionName": "2.133",
+  "releasedAt": "2026-11-20T00:45:00Z",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.133.apk",
+  "sha256": "4bc036a86d5d1c01e815bef3184a74aa5e336420324b3d840704eadead69b92d",
   "notes": [
-    "Fix: import continuation no longer stalls, it now claims its next hop by a one-time token (#677, PR #678)."
+    "Docs: the /API page now matches the live donary-webhook auth (webhook secret, alias paths, real fields and responses)."
   ]
 }
