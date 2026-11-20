@@ -1,11 +1,8 @@
 {
-  "versionCode": 147,
-  "versionName": "2.136",
-  "releasedAt": "2026-11-20T15:50:00Z",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.136.apk",
-  "sha256": "200e8d606faa37f193db5c95a910264121f35ce3ad33e96e9383ac63326fc52e",
-  "notes": [
-    "Fixed: large imports parse the spreadsheet once and cache its rows beside the upload (#687).",
-    "Fixed: import workers read the row cache via storage REST and hand off at 45s, so long imports no longer stall (#688)."
-  ]
+  "versionCode": 148,
+  "versionName": "2.137",
+  "releasedAt": "2026-11-20T17:41:00Z",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.137.apk",
+  "sha256": "e241a11ad333a355b20829080d8c3663a000cd7dc7cca096842f6bf689fb7c36",
+  "notes": "New: super admin announcements, post to all orgs or one, from the overview page (#689)."
 }
