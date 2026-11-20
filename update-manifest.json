@@ -1,10 +1,11 @@
 {
-  "versionCode": 144,
-  "versionName": "2.133",
-  "releasedAt": "2026-11-20T00:45:00Z",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.133.apk",
-  "sha256": "4bc036a86d5d1c01e815bef3184a74aa5e336420324b3d840704eadead69b92d",
+  "versionCode": 145,
+  "versionName": "2.134",
+  "releasedAt": "2026-11-20T02:50:00Z",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.134.apk",
+  "sha256": "427efb1bdc113eae88c871db71fe86fd5c8427133164bde05c01b6dd576fa0b3",
   "notes": [
-    "Docs: the /API page now matches the live donary-webhook auth (webhook secret, alias paths, real fields and responses)."
+    "New: side notification popup showing import progress (#681, #682; PR #683).",
+    "New: donation pages can run in an optional one-time-only mode (#668; PR #674)."
   ]
 }
