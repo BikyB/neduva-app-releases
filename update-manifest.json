@@ -1,7 +1,7 @@
 {
-  "versionCode": 152,
-  "versionName": "2.141",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.141.apk",
-  "sha256": "1161e055647f18ad535e5ff8bb546330737001829294cd5427122d7b25440bbf",
-  "notes": "Sandbox switch done right: keys are verified when you save a connection, the sandbox state shows a red warning and a list badge. Saved views fixed: switching to a saved view now applies that view's setup instead of stale tweaks."
+  "versionCode": 153,
+  "versionName": "2.142",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.142.apk",
+  "sha256": "e34c7ec2bb988004cb22a30eefaa48cac72385f7e6ecdc7818748ed6c6f8463f",
+  "notes": "Dashboard Overview fixed: stats now load through a server-side call instead of paging every transaction on your device, so the Overview page no longer times out or hangs. (#691)"
 }
