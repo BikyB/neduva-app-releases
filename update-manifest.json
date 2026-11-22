@@ -1,6 +1,7 @@
 {
-  "versionCode": 149,
-  "versionName": "2.138",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.138.apk",
-  "notes": "New: org email template customization. Orgs can design their own email templates in Settings with a Word-style editor, use merge tags, and choose how receipts are delivered. Test sends included."
+  "versionCode": 150,
+  "versionName": "2.139",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.139.apk",
+  "sha256": "f25e6724857d784b4486f39c83a47c32c964f469cc2a66967a1674b6cfe27975",
+  "notes": "Bug reports get their own tab on the Overview page (replaces the notifications tab), and bug-solved updates arrive as dashboard notifications instead of emails. All email types now send from the org's own connected account. Fully-paid pledges no longer show as partial or overdue. The donors page caps background requests so it can't freeze. Email templates gained a merge tag dropdown and an org-scope skip-campaigns picker. Donary webhook matches device donor numbers and routes by org without a secret key."
 }
