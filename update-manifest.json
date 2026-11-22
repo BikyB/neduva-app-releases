@@ -1,7 +1,7 @@
 {
-  "versionCode": 155,
-  "versionName": "2.144",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.144.apk",
-  "sha256": "b6083bc418c445d33368a2617242be02f81e626799e5244de5a8f0031c80f11a",
-  "notes": "Bug-report screenshots no longer include the dev notice banner, which used to show in every capture (#612). Cardknox import now also backfills a donor's missing phone from the Cardknox record on the server side (#609)."
+  "versionCode": 156,
+  "versionName": "2.145",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.145.apk",
+  "sha256": "e31589d12ea8517c21a895760ec68aa542e8f868585fc50b301d0919801f8508",
+  "notes": "Pledge details panel no longer crashes the Pledges page when it renders before the pledge loads (#697). New: per-org Google Voice text assistant (org SMS gateway) with an on/off toggle per org in super admin."
 }
