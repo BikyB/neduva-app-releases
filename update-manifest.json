@@ -1,7 +1,7 @@
 {
-  "versionCode": 153,
-  "versionName": "2.142",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.142.apk",
-  "sha256": "e34c7ec2bb988004cb22a30eefaa48cac72385f7e6ecdc7818748ed6c6f8463f",
-  "notes": "Dashboard Overview fixed: stats now load through a server-side call instead of paging every transaction on your device, so the Overview page no longer times out or hangs. (#691)"
+  "versionCode": 154,
+  "versionName": "2.143",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.143.apk",
+  "sha256": "2f78b70b6cc4973e06a634622a8ecdadcb4c6e82560ca5be9adeb2e127198ae2",
+  "notes": "Monthly Revenue dashboard widget now reads a server-side call instead of paging every transaction on your device (#691). Custom fields now actually show up in the Pledges list: picker extras, per-row values, cell rendering, and header labels (#697)."
 }
