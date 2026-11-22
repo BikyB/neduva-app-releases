@@ -1,8 +1,6 @@
 {
-  "versionCode": 148,
-  "versionName": "2.137",
-  "releasedAt": "2026-11-20T17:41:00Z",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.137.apk",
-  "sha256": "e241a11ad333a355b20829080d8c3663a000cd7dc7cca096842f6bf689fb7c36",
-  "notes": "New: super admin announcements, post to all orgs or one, from the overview page (#689)."
+  "versionCode": 149,
+  "versionName": "2.138",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.138.apk",
+  "notes": "New: org email template customization. Orgs can design their own email templates in Settings with a Word-style editor, use merge tags, and choose how receipts are delivered. Test sends included."
 }
