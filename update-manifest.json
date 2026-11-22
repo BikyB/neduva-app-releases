@@ -1,7 +1,7 @@
 {
-  "versionCode": 151,
-  "versionName": "2.140",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.140.apk",
-  "sha256": "8a16e4423a58faa04632d8a507deba4ffd3051a8749075785f1f32823de6b7c3",
-  "notes": "A crashed dashboard page now shows an error message instead of a white screen. Settings test print uses the org's real receipt template with sample data. Recurring charges through a sandbox or test processor are no longer recorded as completed; they get flagged needs review instead."
+  "versionCode": 152,
+  "versionName": "2.141",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.141.apk",
+  "sha256": "1161e055647f18ad535e5ff8bb546330737001829294cd5427122d7b25440bbf",
+  "notes": "Sandbox switch done right: keys are verified when you save a connection, the sandbox state shows a red warning and a list badge. Saved views fixed: switching to a saved view now applies that view's setup instead of stale tweaks."
 }
