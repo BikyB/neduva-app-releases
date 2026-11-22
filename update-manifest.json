@@ -1,7 +1,7 @@
 {
-  "versionCode": 154,
-  "versionName": "2.143",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.143.apk",
-  "sha256": "2f78b70b6cc4973e06a634622a8ecdadcb4c6e82560ca5be9adeb2e127198ae2",
-  "notes": "Monthly Revenue dashboard widget now reads a server-side call instead of paging every transaction on your device (#691). Custom fields now actually show up in the Pledges list: picker extras, per-row values, cell rendering, and header labels (#697)."
+  "versionCode": 155,
+  "versionName": "2.144",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.144.apk",
+  "sha256": "b6083bc418c445d33368a2617242be02f81e626799e5244de5a8f0031c80f11a",
+  "notes": "Bug-report screenshots no longer include the dev notice banner, which used to show in every capture (#612). Cardknox import now also backfills a donor's missing phone from the Cardknox record on the server side (#609)."
 }
