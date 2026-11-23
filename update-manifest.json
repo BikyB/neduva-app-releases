@@ -1,7 +1,7 @@
 {
-  "versionCode": 157,
-  "versionName": "2.146",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.146.apk",
-  "sha256": "85fc52f37fdfceb07014ff2b5cfb7a9b03f410fd81477aa06b6421295c6e1e4c",
-  "notes": "Recurring pledges now show the same way in the list, details panel and schedule counters (#724). Donor page no longer freezes after closing the merge popup (#725). Org SMS gateway: org admins can set up their own gateway in Settings when the feature is on (#723), and Google Voice accounts can connect with OAuth ('Connect with Google') instead of an app password (#727)."
+  "versionCode": 158,
+  "versionName": "2.147",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.147.apk",
+  "sha256": "a10121c5e274d34b7def1edd0717caf2fca449d09da9c4bd26a355937a602f8f",
+  "notes": "Statements, pledges and receipts usability pass (#458, #724): bulk statements dialog, receipt template and designer settings improved, easier pledge list actions, clearer donor and pledge pages."
 }
