@@ -1,7 +1,7 @@
 {
-  "versionCode": 159,
-  "versionName": "2.148",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.148.apk",
-  "sha256": "500f2ef1ca90f6e9c0bffcbbaa943f3b791ab2fdc8effd5717df5c82cb67d380",
-  "notes": "Donary import now matches donors by Hebrew/Yiddish name by default (issue #486), so imported donors line up with existing ones instead of duplicating."
+  "versionCode": 160,
+  "versionName": "2.149",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.149.apk",
+  "sha256": "df47dbb481b10a003ff6bc5e8c40351480ebcf635b9380c4becc407d3affaf85",
+  "notes": "Data cleanup page overhaul: richer orphan details, searchable merge entry, address checks that prefer our records first, and an advanced missing-info view (PR #736)."
 }
