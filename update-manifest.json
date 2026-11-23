@@ -1,7 +1,7 @@
 {
-  "versionCode": 163,
-  "versionName": "2.152",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.152.apk",
-  "sha256": "b87af35c784e0f506473e105295854266a6087ed45ad14426446caa7621630c7",
-  "notes": "Void/refund now routes by the org's processor (#748), and the Cardknox key check on save is informational only and never blocks saving a key (#747)."
+  "versionCode": 164,
+  "versionName": "2.153",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.153.apk",
+  "sha256": "5a6dbe21ef7ff3f4445ff2adcb3ce0c81bdfaa8fcee08739256081cae64f656b",
+  "notes": "Custom report builder shows real numbers, has a multi-select campaign filter and optional grouping (#752). The mamudes monthly-series choice now persists when creating a schedule (#755)."
 }
