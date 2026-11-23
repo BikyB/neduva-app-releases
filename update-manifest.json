@@ -1,7 +1,7 @@
 {
-  "versionCode": 158,
-  "versionName": "2.147",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.147.apk",
-  "sha256": "a10121c5e274d34b7def1edd0717caf2fca449d09da9c4bd26a355937a602f8f",
-  "notes": "Statements, pledges and receipts usability pass (#458, #724): bulk statements dialog, receipt template and designer settings improved, easier pledge list actions, clearer donor and pledge pages."
+  "versionCode": 159,
+  "versionName": "2.148",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.148.apk",
+  "sha256": "500f2ef1ca90f6e9c0bffcbbaa943f3b791ab2fdc8effd5717df5c82cb67d380",
+  "notes": "Donary import now matches donors by Hebrew/Yiddish name by default (issue #486), so imported donors line up with existing ones instead of duplicating."
 }
