@@ -1,7 +1,7 @@
 {
-  "versionCode": 160,
-  "versionName": "2.149",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.149.apk",
-  "sha256": "df47dbb481b10a003ff6bc5e8c40351480ebcf635b9380c4becc407d3affaf85",
-  "notes": "Data cleanup page overhaul: richer orphan details, searchable merge entry, address checks that prefer our records first, and an advanced missing-info view (PR #736)."
+  "versionCode": 161,
+  "versionName": "2.150",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.150.apk",
+  "sha256": "af41ec55b03ca65a0fd24646578a3ec7d5c91d44d77b2a2307e834920829b9fe",
+  "notes": "Professional redesign of the public signup page (PR #742), plus duplicate signup protection so double clicks no longer create two signup requests (PR #741)."
 }
