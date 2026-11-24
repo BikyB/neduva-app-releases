@@ -1,7 +1,7 @@
 {
-  "versionCode": 164,
-  "versionName": "2.153",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.153.apk",
-  "sha256": "5a6dbe21ef7ff3f4445ff2adcb3ce0c81bdfaa8fcee08739256081cae64f656b",
-  "notes": "Custom report builder shows real numbers, has a multi-select campaign filter and optional grouping (#752). The mamudes monthly-series choice now persists when creating a schedule (#755)."
+  "versionCode": 165,
+  "versionName": "2.154",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.154.apk",
+  "sha256": "4dfbbb5db28c6c98734e3f03ac4c979ee890b565190783a2e7cda13be4808de3",
+  "notes": "Business Suite rolls into super admin (#686), super admins can pick the platform billing processor (#758), Org Connections expands to show more per connection with the full webhook link (#750), and the MDM device-policy editor was tightened (#743). Public card checkout and public invoice pay pages got fixes."
 }
