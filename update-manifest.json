@@ -1,7 +1,7 @@
 {
-  "versionCode": 165,
-  "versionName": "2.154",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.154.apk",
-  "sha256": "4dfbbb5db28c6c98734e3f03ac4c979ee890b565190783a2e7cda13be4808de3",
-  "notes": "Business Suite rolls into super admin (#686), super admins can pick the platform billing processor (#758), Org Connections expands to show more per connection with the full webhook link (#750), and the MDM device-policy editor was tightened (#743). Public card checkout and public invoice pay pages got fixes."
+  "versionCode": 166,
+  "versionName": "2.155",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.155.apk",
+  "sha256": "4eaa984fe4572347f9df10e72d32e85e20f6adbcf626047f7fc9b96eaec0a4f4",
+  "notes": "Super admin email got a compose-from-login view with a sent inbox, full HTML bodies and attachments (#759, #764). Location card totals now exclude voided and deleted transactions (#766). Donor location filter and stats read real locations via donor_locations (#762). List pages no longer flash an empty state while loading (#761), and fundraisers show a dash instead of a bare % when the commission rate is unset (#760)."
 }
