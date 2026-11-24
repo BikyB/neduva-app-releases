@@ -1,7 +1,7 @@
 {
-  "versionCode": 166,
-  "versionName": "2.155",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.155.apk",
-  "sha256": "4eaa984fe4572347f9df10e72d32e85e20f6adbcf626047f7fc9b96eaec0a4f4",
-  "notes": "Super admin email got a compose-from-login view with a sent inbox, full HTML bodies and attachments (#759, #764). Location card totals now exclude voided and deleted transactions (#766). Donor location filter and stats read real locations via donor_locations (#762). List pages no longer flash an empty state while loading (#761), and fundraisers show a dash instead of a bare % when the commission rate is unset (#760)."
+  "versionCode": 167,
+  "versionName": "2.156",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.156.apk",
+  "sha256": "be68c810c1218973af827cf24ba5799421e3a835ea1e4768c7c5ae471914ced8",
+  "notes": "Fixed the MDM policy editor opening on a blank page when an empty-string select option was present (#770)."
 }
