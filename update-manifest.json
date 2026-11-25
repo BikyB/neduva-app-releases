@@ -1,7 +1,6 @@
 {
-  "versionCode": 167,
-  "versionName": "2.156",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.156.apk",
-  "sha256": "be68c810c1218973af827cf24ba5799421e3a835ea1e4768c7c5ae471914ced8",
-  "notes": "Fixed the MDM policy editor opening on a blank page when an empty-string select option was present (#770)."
+  "versionCode": 168,
+  "versionName": "2.157",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.157.apk",
+  "notes": "Super admin can use the org inbox and data cleanup; dashboard RPC fixes; org inbox and notifications updates"
 }
