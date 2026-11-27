@@ -1,6 +1,6 @@
 {
-  "versionCode": 168,
-  "versionName": "2.157",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.157.apk",
-  "notes": "Super admin can use the org inbox and data cleanup; dashboard RPC fixes; org inbox and notifications updates"
+  "versionCode": 169,
+  "versionName": "2.158",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.158.apk",
+  "notes": "Custom reports: donor columns, PDF export, compound filters; dashboard card picker; billing settings; design polish and animations; Donary no-echo sync"
 }
