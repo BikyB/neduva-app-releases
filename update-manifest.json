@@ -1,6 +1,6 @@
 {
-  "versionCode": 169,
-  "versionName": "2.158",
-  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.158.apk",
-  "notes": "Custom reports: donor columns, PDF export, compound filters; dashboard card picker; billing settings; design polish and animations; Donary no-echo sync"
+  "versionCode": 170,
+  "versionName": "2.159",
+  "url": "https://raw.githubusercontent.com/BikyB/neduva-app-releases/main/neduva-v2.159.apk",
+  "notes": "DAF charity cards chargeable without Cardknox (Matbia direct + Donor Fuse charity path); connection catalog gains Matbia and iMaaser"
 }
